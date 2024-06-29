@@ -44,7 +44,7 @@ export default function Assessment({ result }: { result: Result }) {
                 <div className="tabs content-fade-below">
                     <button className={currentTab === 'summary' ? 'active' : ''} onClick={() => setCurrentTab('summary')}>Summary</button>
                     <button className={currentTab === 'features' ? 'active' : ''} onClick={() => setCurrentTab('features')}>Features</button>
-                    <button className={currentTab === 'comments' ? 'active' : ''} onClick={() => setCurrentTab('comments')}>Annotations</button>
+                    <button className={currentTab === 'comments' ? 'active' : ''} onClick={() => setCurrentTab('comments')}>Risks</button>
                 </div>
                 <div className="summary scroll-overlay">
                     {currentTab === 'summary' && <Markdown remarkPlugins={[remarkGfm]}>{result.summary}</Markdown>}
