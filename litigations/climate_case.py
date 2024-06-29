@@ -156,7 +156,7 @@ def generate_json(data):
 TOTAL_LAWSUITS = 420
 data = []
 with open('nepa_lawsuits.csv', 'r') as file:
-    count = 50
+    count = 376
     for specs in file:
         url, post_number = specs.strip('\n').split(',')
         data.append((url, post_number))

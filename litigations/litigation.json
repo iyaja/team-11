@@ -208,5 +208,2273 @@
         "defendant": "U.S. Forest Service",
         "complaint_info": "",
         "order_info": ""
+    },
+    "https://climatecasechart.com/case/city-of-port-isabel-v-federal-energy-regulatory-commission-2/": {
+        "description": "Description: Challenge to FERC order granting new authorizations for LNG terminal in Cameron County, Texas on remand from 2021 D.C. Circuit decision.",
+        "plaintiff": "City of Port Isabel",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/city-of-port-isabel-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC order granting new authorizations for LNG terminal in Cameron County, Texas on remand from 2021 D.C. Circuit decision.",
+        "plaintiff": "City of Port Isabel",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/appalachian-voices-v-tennessee-valley-authority/": {
+        "description": "Description: Challenge to the Tennessee Valley Authority's decision to replace a coal-fired power plant that it was retiring with a combined-cycle gas plant.",
+        "plaintiff": "Appalachian Voices",
+        "defendant": "Tennessee Valley Authority",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-land-management-6/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s approval of six drilling permits for new oil wells in the San Joaquin Valley.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/oregon-wild-v-us-forest-service-2/": {
+        "description": "Description: Challenge to the U.S. Forest Service\u2019s Grasshopper Restoration Project in Mt. Hood National Forest, which included commercial logging.",
+        "plaintiff": "Oregon Wild",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/one-hundred-miles-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to the U.S. Army Corps of Engineers\u2019 removal of seasonal restrictions on hopper dredging in Brunswick Harbor.",
+        "plaintiff": "One Hundred Miles",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-federal-aviation-administration/": {
+        "description": "Description: NEPA challenge to the Federal Aviation Administration\u2019s authorization of the SpaceX Starship/Super Heavy Launch Vehicle Program.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Federal Aviation Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/kettle-range-conservation-group-v-smolden/": {
+        "description": "Description: Challenge to the U.S. Forest Service\u2019s authorization of a logging project on public lands in the Colville National Forest\u2019s Kettle Range, which is one of the last-remaining areas still occupied by the Canada lynx in the lower 48 states.",
+        "plaintiff": "Kettle Range Conservation Group",
+        "defendant": "Smolden",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/louisiana-v-mayorkas/": {
+        "description": "Description: Lawsuit challenging the Federal Emergency Management Agency's adoption of a new methodology for calculating flood insurance rates in the National Flood Insurance Program.",
+        "plaintiff": "Louisiana",
+        "defendant": "Mayorkas",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/save-long-beach-island-v-us-department-of-commerce/": {
+        "description": "Description: Challenge to the National Marine Fisheries Service\u2019s incidental take/ harassment authorizations for offshore wind.",
+        "plaintiff": "Save Long Beach Island",
+        "defendant": "U.S. Department of Commerce",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/friends-of-newport-harbor-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers permit for a confined aquatic disposal (CAD) facility in  Newport Harbor in California for disposal of dredged sediment deemed unsuitable for open ocean disposal.",
+        "plaintiff": "Friends of Newport Harbor",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/association-of-village-council-presidents-v-national-marine-fisheries-service/": {
+        "description": "Description: Challenge to the National Marine Fisheries Service's adoption of annual catch limits for groundfish fisheries of the Bering Sea and Aleutian Islands.",
+        "plaintiff": "Association of Village Council Presidents",
+        "defendant": "National Marine Fisheries Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/comite-dialogo-ambiental-v-federal-emergency-management-agency/": {
+        "description": "Description: Lawsuit alleging that FEMA and other defendants prepared flawed environmental assessments of the impacts of using federal disaster aid to repair, reconstruct, and relocate Puerto Rico\u2019s fossil fuel-based electricity infrastructure after hurricanes.",
+        "plaintiff": "Comit\u00e9 Dialogo Ambiental",
+        "defendant": "Federal Emergency Management Agency",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/ohio-environmental-council-v-us-forest-service/": {
+        "description": "Description: Challenge to project authorizing 2,485 acres of timber harvest in Wayne National Forest in southeast Ohio.",
+        "plaintiff": "Ohio Environmental Council",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/county-of-mohave-v-us-bureau-of-reclamation/": {
+        "description": "Description: Challenge the Bureau of Reclamation's approval of a partial assignment and transfer of a Colorado River water entitlement to an Arizona town from a company that diverts water for agricultural purposes.",
+        "plaintiff": "County of Mohave",
+        "defendant": "U.S. Bureau of Reclamation",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/healthy-gulf-v-haaland/": {
+        "description": "Description: Challenge to Gulf of Mexico oil and gas lease sale covering more than 73 million acres of public waters.",
+        "plaintiff": "Healthy Gulf",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/alliance-of-the-southeast-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers approval of the Calumet Harbor Dredged Material Disposal Facility, which would enable continued disposal of dredged materials from Chicago Area Waterway System.",
+        "plaintiff": "Alliance of the Southeast",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/new-jersey-conservation-foundation-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission authorizations for the Regional Energy Access Expansion project, a natural gas infrastructure project to expand natural gas transportation service to New Jersey, Pennsylvania, and Maryland.",
+        "plaintiff": "New Jersey Conservation Foundation",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/monroe-county-board-of-commissioners-v-us-forest-service-2/": {
+        "description": "Description: Challenge to environmental review of Houston South Vegetation Management and Restoration Project in the Hoosier National Forest; review was conducted on remand from earlier decision of the court.",
+        "plaintiff": "Monroe County Board of Commissioners",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Entry regarding offer of judgment so-ordered."
+    },
+    "https://climatecasechart.com/case/sovereign-inupiat-for-a-living-arctic-v-bureau-of-land-management-2/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s 2023 approval of the Willow Master Development Plan in the National Petroleum Reserve in Alaska.",
+        "plaintiff": "Sovereign I\u00f1upiat for a Living Arctic",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/alabama-municipal-distributors-group-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to approvals for the Evangeline Pass Expansion Project, which included pipeline expansion and which would enable provision of firm natural gas transportation service to a liquefied natural gas export facility in southeast Louisiana.",
+        "plaintiff": "Alabama Municipal Distributors Group",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-bucknall/": {
+        "description": "Description: Challenge to federal defendants\u2019 decision to continue a predator damage management program in Montana.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Bucknall",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-haaland-9/": {
+        "description": "Description: Challenge to the National Park Service\u2019s release of land-use restrictions to facilitate the development of a proposed waterpark, hotel, and retail development in Miami-Dade County.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/citizens-for-clean-air-clean-water-in-brazoria-county-v-us-department-of-transportation/": {
+        "description": "Description: Challenge to the U.S. Maritime Administration\u2019s record of decision for the licensing of the Sea Port Oil Terminal and the final environmental impact statement for the project.",
+        "plaintiff": "Citizens for Clean Air & Clean Water in Brazoria County",
+        "defendant": "U.S. Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/citizens-caring-for-the-future-v-haaland/": {
+        "description": "Description: Challenge to the authorization of 32 oil and gas leases covering public lands in New Mexico.",
+        "plaintiff": "Citizens Caring for the Future",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cook-inletkeeper-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to the final environmental impact statement and record of decision for an oil and gas sale in federal waters of Cook Inlet, Alaska mandated by the Inflation Reduction Act of 2022.",
+        "plaintiff": "Cook Inletkeeper",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cana-foundation-v-us-department-of-interior/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management decision to remove wild horses and burros from Herd Management Areas in Nevada.",
+        "plaintiff": "CANA Foundation",
+        "defendant": "U.S. Department of Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dont-cage-our-oceans-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to the U.S. Army Corps of Engineers\u2019 issuance of Nationwide Permit 56 authorizing industrial finfish aquaculture structures in federal waters.",
+        "plaintiff": "Don\u2019t Cage Our Oceans",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/kinsella-v-bureau-of-ocean-energy-management/": {
+        "description": "Description: Challenge to approval of the South Fork offshore wind energy project.",
+        "plaintiff": "Kinsella",
+        "defendant": "Bureau of Ocean Energy Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dine-citizens-against-ruining-the-environment-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to BLM's decisions to re-affirm the Trump administration's authorization and issuance of oil and gas leases on 42 parcels as well as the approval of 120 Applications for Permit to Drill in the Greater Chaco area in New Mexico.",
+        "plaintiff": "Din\u00e9 Citizens Against Ruining the Environment",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/powder-river-basin-resource-council-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to the Converse County Oil and Gas Project in Wyoming's Powder River Basin.",
+        "plaintiff": "Powder River Basin Resource Council",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cascadia-wildlands-v-adcock/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s approval of the plan for \u201ca multi-decade series of logging projects on 13,225 acres of BLM-administered lands in Lane County west of Eugene, Oregon.\u201d",
+        "plaintiff": "Cascadia Wildlands",
+        "defendant": "Adcock",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-federal-energy-regulatory-commission-7/": {
+        "description": "Description: Challenge to the Federal Energy Regulatory Commission's grant of a request for an extension of time for construction and placement into service of a natural gas pipeline project in New York.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-federal-energy-regulatory-commission-6/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission\u2019s grant of a request for an extension of time to construct and place into service additional facilities at an existing liquefied natural gas terminal in Texas.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/el-puente-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to the U.S. Army Corps of Engineers San Juan Bay Dredging Project, which would allow larger tankers of liquefied natural gas and petroleum to transit the Bay.",
+        "plaintiff": "El Puente",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/south-carolina-coastal-conservation-league-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to the issuance of a Clean Water Act permit authorizing the filling of wetlands for construction of a mixed-use residential and commercial development in South Carolina.",
+        "plaintiff": "South Carolina Coastal Conservation League",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-bureau-of-land-management/": {
+        "description": "Description: Challenge to environmental review of the approval of an oil and gas exploration program in the National Petroleum Reserve-Alaska.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/food-water-watch-v-federal-energy-regulatory-commission-2/": {
+        "description": "Description: Challenge to authorization of a project to increase the natural gas capacity of an existing pipeline, including modifications to existing compressor stations in Pennsylvania and New Jersey and construction of a new compressor station in New Jersey.",
+        "plaintiff": "Food & Water Watch",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/washington-v-us-department-of-the-navy/": {
+        "description": "Description: Challenge to the environmental review for the expansion of \"Growler\" aircraft operations at the Naval Air Station Whidbey Island.",
+        "plaintiff": "Washington",
+        "defendant": "U.S. Department of the Navy",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/allco-renewable-energy-ltd-v-haaland-south-fork-wind/": {
+        "description": "Description: Challenge to approval and permits for the South Fork Wind Project (severed from challenge to Vineyard Wind).",
+        "plaintiff": "Allco Renewable Energy Ltd.",
+        "defendant": "Haaland (South Fork Wind)",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Balance of motion to dismiss denied without prejudice in light of representation that plaintiffs would seek leave to file amended complaint."
+    },
+    "https://climatecasechart.com/case/concerned-friends-of-the-winema-v-mckay/": {
+        "description": "Description: Challenge to decisions of the U.S. Forest Service that opened up additional acreage to livestock grazing on the Antelope Allotment in the Fremont-Winema National Forest in south-central Oregon.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "McKay",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/delaware-riverkeeper-network-v-federal-energy-regulatory-commission-2/": {
+        "description": "Description: Challenge to the Federal Energy Regulatory Commission's approval of the Adelphia Gateway Project, a project involving acquisition of an existing natural gas pipeline system and construction of new lateral pipeline segments and facilities.",
+        "plaintiff": "Delaware Riverkeeper Network",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-hoffman/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s approval of the expansion of a coal mine Utah.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Hoffman",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/greater-hells-canyon-council-v-wilkes/": {
+        "description": "Description: Challenge to U.S. Forest Service approval of the Forest Plans Amendment to Forest Management Direction for Large Diameter Trees in Eastern Oregon and Southeastern Washington that allegedly would remove protections for large and old trees.",
+        "plaintiff": "Greater Hells Canyon Council",
+        "defendant": "Wilkes",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-department-of-the-interior-2/": {
+        "description": "Description: Challenge to approval of at least 3,535 applications for permit to drill (APDs) for oil and gas in the Permian Basin in New Mexico and in the Powder River Basin in Wyoming.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "Amended complaint filed.",
+        "order_info": "Notices of lodging of proposed motions to dismiss denied without prejudice."
+    },
+    "https://climatecasechart.com/case/rethink35-v-texas-department-of-transportation/": {
+        "description": "Description: Challenge to the environmental review for a highway widening project in Austin, Texas.",
+        "plaintiff": "Rethink35",
+        "defendant": "Texas Department of Transportation",
+        "complaint_info": "",
+        "order_info": "Action dismissed with prejudice pursuant to stipulation of the parties."
+    },
+    "https://climatecasechart.com/case/wilderness-society-v-haaland/": {
+        "description": "Description: Challenge to a June 2022 decision to sell oil and gas leases covering almost 120,000 acres in Wyoming.",
+        "plaintiff": "Wilderness Society",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dakota-resource-council-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to approval of 173 oil and gas lease sales across eight states.",
+        "plaintiff": "Dakota Resource Council",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-parks-conservation-association-v-federal-aviation-administration/": {
+        "description": "Description: Challenge to the Federal Aviation Administration's issuance of a launch site operator license for operation of a proposed commercial spaceport in Camden County, Georgia.",
+        "plaintiff": "National Parks Conservation Association",
+        "defendant": "Federal Aviation Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/san-antonio-bay-estuarine-waterkeeper-v-connor/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers authorizations for a federal channel deepening and expansion project in the Matagorda Ship Channel near Port Lavaca, Texas.",
+        "plaintiff": "San Antonio Bay Estuarine Waterkeeper",
+        "defendant": "Connor",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/st-johns-riverkeeper-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to NEPA review for a channel deepening project in the Jacksonville Harbor.",
+        "plaintiff": "St. Johns Riverkeeper",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/california-v-us-postal-service/": {
+        "description": "Description: Lawsuit alleging that the U.S. Postal Service failed to comply with the National Environmental Policy Act in connection with the Next Generation Delivery Vehicles program to replace its fleet.",
+        "plaintiff": "California",
+        "defendant": "U.S. Postal Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/natural-resources-defense-council-inc-v-dejoy/": {
+        "description": "Description: Lawsuit alleging that the U.S. Postal Service failed to comply with the National Environmental Policy Act in connection with the Next Generation Delivery Vehicles program to replace its fleet.",
+        "plaintiff": "Natural Resources Defense Council, Inc.",
+        "defendant": "DeJoy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cleanairnow-v-dejoy/": {
+        "description": "Description: Lawsuit alleging that the U.S. Postal Service failed to comply with the National Environmental Policy Act in connection with the Next Generation Delivery Vehicles program to replace its fleet.",
+        "plaintiff": "CleanAirNow",
+        "defendant": "DeJoy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/aqualliance-v-us-bureau-of-reclamation-3/": {
+        "description": "Description: Challenge to the environmental review and approvals for a 2019-2024 water transfer program from sellers upstream of the Sacramento/San Joaquin Delta to downstream buyers that allegedly would exacerbate climate change impacts on groundwater resources.",
+        "plaintiff": "AquAlliance",
+        "defendant": "U.S. Bureau of Reclamation",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cottonwood-environmental-law-center-v-erickson/": {
+        "description": "Description: Challenge to revised Custer Gallatin National Forest Plan, including for failure to take a hard look at the impacts of logging when combined with climate change.",
+        "plaintiff": "Cottonwood Environmental Law Center",
+        "defendant": "Erickson",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/eagle-county-v-surface-transportation-board/": {
+        "description": "Description: Challenge to a Surface Transportation Board decision approving construction and operation of an 85-mile rail line in Utah.",
+        "plaintiff": "Eagle County",
+        "defendant": "Surface Transportation Board",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-federal-energy-regulatory-commission-5/": {
+        "description": "Description: Challenge to FERC authorization for the Southgate Project, which would carry gas from the terminus of Mountain Valley's Mainline to a local distribution system in North Carolina, including for failing to consider impacts of climate change.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/waterkeepers-chesapeake-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC's issuance of a new 50-year license for the Conowingo Hydroelectric Project in Maryland, including for failure to supplement the NEPA analysis to consider new information on climate change.",
+        "plaintiff": "Waterkeepers Chesapeake",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/resource-renewal-institute-v-national-park-service-2/": {
+        "description": "Description: Challenge to the National Park Service\u2019s adoption of a General Management Plan amendment that expanded lands open to beef and dairy ranching within Point Reyes National Seashore and Golden Gate National Recreation Area.",
+        "plaintiff": "Resource Renewal Institute",
+        "defendant": "National Park Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/responsible-offshore-development-alliance-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to Bureau of Ocean Energy Management approvals for the Vineyard Wind offshore wind project off the coasts of Massachusetts and Rhode Island.",
+        "plaintiff": "Responsible Offshore Development Alliance",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/idaho-conservation-league-v-us-forest-service-2/": {
+        "description": "Description: Lawsuit challenging federal approvals of the Sage Hen Integrated Restoration Project in the Boise National Forest.",
+        "plaintiff": "Idaho Conservation League",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/oneil-v-steele/": {
+        "description": "Description: Lawsuit asserting that U.S. Forest Service failed to consider the albedo effect when developing a management plan.",
+        "plaintiff": "O\u2019Neil",
+        "defendant": "Steele",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildlands-defense-v-brummett/": {
+        "description": "Description: Lawsuit challenging the U.S. Forest Service\u2019s approval of the Sage Hen Integrated Restoration Project in the Boise National Forest, including for failure to consider climate change impacts on bull trout.",
+        "plaintiff": "Wildlands Defense",
+        "defendant": "Brummett",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/san-luis-valley-ecosystem-council-v-dallas/": {
+        "description": "Description: Lawsuit challenging the U.S. Forest Service\u2019s authorization of the Rio Grande National Forest Land Management Plan and associated actions.",
+        "plaintiff": "San Luis Valley Ecosystem Council",
+        "defendant": "Dallas",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/defenders-of-wildlife-v-us-forest-service/": {
+        "description": "Description: Challenge to the U.S. Forest Service\u2019s authorization of the Rio Grande National Forest Land Management Plan and associated actions, focused on impacts to Canada lynx habitat.",
+        "plaintiff": "Defenders of Wildlife",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/clark-v-haaland/": {
+        "description": "Description: Lawsuit seeking seeking declarations regarding the application of federal law to certain reclamation and irrigation projects.",
+        "plaintiff": "Clark",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": "Plaintiff San Juan Water Users Association dismissed without prejudice."
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-land-management-5/": {
+        "description": "Description: Challenge to federal defendants' management of the West Mojave Planning Area of the California Desert Conservation Area.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/aqualliance-v-us-bureau-of-reclamation-2/": {
+        "description": "Description: Challenge to program to incentivize groundwater pumping as an alternative to obtaining water from the Sacramento River.",
+        "plaintiff": "AquAlliance",
+        "defendant": "U.S. Bureau of Reclamation",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/indigenous-peoples-of-the-coastal-bend-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to Clean Water Act permit for expansion of crude oil export terminal in Texas.",
+        "plaintiff": "Indigenous Peoples of the Coastal Bend",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cape-fear-river-watch-v-us-army-corps-of-engineers/": {
+        "description": "Description: Lawsuit challenging the elimination of seasonal restrictions on \"hopper dredging.\"",
+        "plaintiff": "Cape Fear River Watch",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/american-petroleum-institute-v-us-department-of-the-interior/": {
+        "description": "Description: Lawsuit seeking to compel federal defendants to proceed with onshore and offshore oil and gas lease sales.",
+        "plaintiff": "American Petroleum Institute",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "First supplemental and amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/aqualliance-v-us-fish-wildlife-service/": {
+        "description": "Description: Challenge to federal authorizations for a multi-use development in the City of Chico.",
+        "plaintiff": "AquAlliance",
+        "defendant": "U.S. Fish & Wildlife Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/ack-residents-against-turbines-v-us-bureau-of-ocean-energy-management/": {
+        "description": "Description: Lawsuit challenging the federal reviews of the Vineyard Wind 1 offshore wind project.",
+        "plaintiff": "Nantucket Residents Against Turbines",
+        "defendant": "U.S. Bureau of Ocean Energy Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/friends-of-the-earth-v-haaland/": {
+        "description": "Description: Lawsuit challenging federal defendants' decision to hold an offshore oil and gas lease sale in the Gulf of Mexico.",
+        "plaintiff": "Friends of the Earth",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/protect-our-aquifer-v-tennessee-valley-authority/": {
+        "description": "Description: Challenge to long-term contracts for electricity between Tennessee Valley Authority and local utilities.",
+        "plaintiff": "Protect Our Aquifer",
+        "defendant": "Tennessee Valley Authority",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to the review of the U.S. Bureau of Land Management's revised livestock grazing analysis for the Sonoran Desert National Monument Resource Management Plan.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/north-dakota-v-us-department-of-the-interior/": {
+        "description": "Description: Lawsuit challenging the Biden administration's moratorium on oil and gas leasing.",
+        "plaintiff": "North Dakota",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/allco-renewable-energy-ltd-v-haaland/": {
+        "description": "Description: Lawsuit challenging federal review and approvals for the Vineyard Wind offshore wind project.",
+        "plaintiff": "Allco Renewable Energy Ltd.",
+        "defendant": "Haaland (Vineyard Wind)",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Motions to dismiss denied without prejudice in light of filing of amended complaint."
+    },
+    "https://climatecasechart.com/case/living-rivers-v-hoffman-2/": {
+        "description": "Description: Challenge by conservation groups to the suspension of 82 oil and gas leases.",
+        "plaintiff": "Living Rivers",
+        "defendant": "Hoffman",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/citizens-for-a-healthy-community-v-us-department-of-interior/": {
+        "description": "Description: Lawsuit challenging federal defendants\u2019 approval of the North Fork Mancos Master Development Plan, which allowed drilling of 35 horizontal gas wells in an area on the Western Slope of the Rocky Mountains.",
+        "plaintiff": "Citizens for a  Healthy Community",
+        "defendant": "U.S. Department of Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/safe-skies-clean-water-wisconsin-inc-v-us-air-force/": {
+        "description": "Description: Challenge to the decision by the U.S. Air Force to replace F-16 fighter jets with F35-A aircraft at an Air National Guard location in Madison, Wisconsin.",
+        "plaintiff": "Safe Skies Clean Water Wisconsin, Inc.",
+        "defendant": "U.S. Air Force",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/harris-county-v-texas-department-of-transportation/": {
+        "description": "Description: Lawsuit alleging that Texas Department of Transportation failed to comply with the requirements in the National Environmental Policy Act and Section 4(f) of the Department of Transportation Act in connection with the rerouting of a Houston highway,",
+        "plaintiff": "Harris County",
+        "defendant": "Texas Department of Transportation",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-land-management-4/": {
+        "description": "Description: Challenge to environmental review for oil and gas lease sale in Kern County, California.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/memphis-community-against-pollution-inc-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to issuance of 2017 Nationwide Permit (NWP) 12 and the verification of the use of NWP 12 for the Byhalia crude oil pipeline.",
+        "plaintiff": "Memphis Community Against Pollution, Inc.",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "First supplemental complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-wehner/": {
+        "description": "Description: Challenge to the environmental review for the predator damage management program for Colorado.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Wehner",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/no-more-freeways-v-us-department-of-transportation/": {
+        "description": "Description: Challenge to federal approval of a highway project in Portland, Oregon.",
+        "plaintiff": "No More Freeways",
+        "defendant": "U.S. Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/friends-of-cedar-mesa-v-department-of-the-interior/": {
+        "description": "Description: Challenge to approval of oil and gas leases in southeastern Utah, including for failure to consider climate change impacts on cultural resources.",
+        "plaintiff": "Friends of Cedar Mesa",
+        "defendant": "Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/arizona-v-mayorkas/": {
+        "description": "Description: Lawsuit asserting that the Biden administration should have complied with the National Environmental Policy Act before changing course on immigration polices.",
+        "plaintiff": "Arizona",
+        "defendant": "Mayorkas",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Court issued tentative ruling that would deny motion for preliminary injunction."
+    },
+    "https://climatecasechart.com/case/texas-against-high-speed-rail-inc-v-us-department-of-transportation/": {
+        "description": "Description: Challenge to Federal Railroad Administration's approval of a \"Rule of Particular Applicability\" for a high-speed rail technology proposed for use in Texas.",
+        "plaintiff": "Texans Against High-Speed Rail, Inc.",
+        "defendant": "U.S. Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/protect-our-parks-inc-v-buttigieg/": {
+        "description": "Description: Challenge to federal approvals for the construction of the Obama Presidential Center in Jackson Park in Chicago.",
+        "plaintiff": "Protect Our Parks, Inc.",
+        "defendant": "Buttigieg",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/louisiana-v-biden/": {
+        "description": "Description: Lawsuit challenging interim estimates for the social cost of greenhouse gases released by the Interagency Working Group on Social Cost of Greenhouse Gases.",
+        "plaintiff": "Louisiana",
+        "defendant": "Biden",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/friends-of-the-clearwater-v-probert/": {
+        "description": "Description: Lawsuit challenging the U.S. Forest Service's approvals of two logging projects in the Nez Perce-Clearwater National Forests.",
+        "plaintiff": "Friends of the Clearwater",
+        "defendant": "Probert",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-scott/": {
+        "description": "Description: Lawsuit challenging the 2021 issuance of nationwide permit to cover oil and gas pipeline projects.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Scott",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-wildlife-refuge-association-v-rural-utilities-service/": {
+        "description": "Description: Challenges to a 101-mile high-voltage transmission line running from Iowa to a substation in Wisconsin.",
+        "plaintiff": "National Wildlife Refuge Association",
+        "defendant": "Rural Utilities Service",
+        "complaint_info": "",
+        "order_info": "Motion for injunctive relief denied without prejudice to renewal after presentation to the district court."
+    },
+    "https://climatecasechart.com/case/western-organization-of-resource-councils-v-us-bureau-of-land-management-2/": {
+        "description": "Description: Challenge to resource management plan amendments for federal lands in the Powder River Basin in Montana and Wyoming.",
+        "plaintiff": "Western Organization of Resource Councils",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/clinch-coalition-v-us-forest-service/": {
+        "description": "Description: Lawsuit challenging three categorical exclusions adopted by the U.S. Forest Service to exempt certain projects from NEPA review.",
+        "plaintiff": "Clinch Coalition",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-us-bureau-of-land-management-2/": {
+        "description": "Description: Lawsuits challenging the U.S. Bureau of Land Management\u2019s of oil and gas leases on public lands in Montana and North Dakota between July 2019 and September 2020.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-perdue/": {
+        "description": "Description: Challenge to the U.S. Forest Service\u2019s authorization of livestock grazing on 270,000 acres in the Apache-Sitgreaves and Gila National Forests in Arizona and New Mexico.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "Perdue",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/conservation-council-for-hawaii-v-bernhardt/": {
+        "description": "Description: Challenge to final rule defining \"habitat\" under the Endangered Species Act.",
+        "plaintiff": "Conservation Council for Hawai\u2018i",
+        "defendant": "Bernhardt",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Stipulation to stay proceedings for 60 days so-ordered."
+    },
+    "https://climatecasechart.com/case/california-v-bernhardt-2/": {
+        "description": "Description: Challenge to final rules under the Endangered Species Act defining \"habitat\" and revising the regulations for designating critical habitat.",
+        "plaintiff": "California",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": "Stipulation to continue stay for 60 days so-ordered."
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-bernhardt-7/": {
+        "description": "Description: Challenge to the environmental reviews for oil and gas leases in Colorado, New Mexico, Utah, and Wyoming.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": "Plaintiffs and federal defendants ordered to file a joint status report by November 3, 2021 on the status of settlement negotiations."
+    },
+    "https://climatecasechart.com/case/friends-of-the-headwaters-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers permits for the Enbridge Energy Line 3 pipeline replacement project.",
+        "plaintiff": "Friends of the Headwaters",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-energy-alliance-v-biden/": {
+        "description": "Description: Challenge to the Biden administration's suspension of new federal oil and gas leasing on public lands.",
+        "plaintiff": "Western Energy Alliance",
+        "defendant": "Biden",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/indigenous-environmental-network-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to federal actions authorizing the Keystone XL pipeline project.",
+        "plaintiff": "Indigenous Environmental Network",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/shoshone-bannock-tribes-of-fort-hall-reservation-v-hammond/": {
+        "description": "Description: Challenge to the U.S. Department of Interior\u2019s approval of a land exchange to facilitate expansion of phosphogypsum stacks located on a Superfund site.",
+        "plaintiff": "Shoshone-Bannock Tribes of Fort Hall Reservation",
+        "defendant": "Hammond",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/safe-skies-clean-water-wisconsin-inc-v-national-guard-bureau/": {
+        "description": "Description: Challenge to the environmental review for construction and demolition projects at the Wisconsin Air National Guard\u2019s 115th Fighter Wing Installation at a regional airport in Madison.",
+        "plaintiff": "Safe Skies Clean Water Wisconsin, Inc.",
+        "defendant": "National Guard Bureau",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-association-for-the-advancement-of-colored-people-erie-unit-2262-v-federal-highway-administration/": {
+        "description": "Description: Challenge to the Bayfront Parkway Project in the City of Erie, for which the Federal Highway Administration approved a categorical exclusion.",
+        "plaintiff": "National Association for the Advancement of Colored People Erie Unit 2262",
+        "defendant": "Federal Highway Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-land-management-3/": {
+        "description": "Description: Challenge to approval of an application for a permit to drill in connection with a new well and pipeline within the Carrizo Plain National Monument in California.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/organized-village-of-kake-v-perdue/": {
+        "description": "Description: Challenge to final rule exempting the Tongass National Forest in Alaska from the Roadless Area Conservation Rule. ",
+        "plaintiff": "Organized Village of Kake",
+        "defendant": "Perdue",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/red-lake-band-of-chippewa-indians-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers authorizations for Line 3 pipeline project in Minnesota.",
+        "plaintiff": "Red Lake Band of Chippewa Indians",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/southern-utah-wilderness-alliance-v-bernhardt/": {
+        "description": "Description: Lawsuit challenging the sale and issuance of an  oil and gas lease in southeastern Utah, as well as the approval of development of the lease and the decision to abandon master planning for area where lease was located.",
+        "plaintiff": "Southern Utah Wilderness Alliance",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": "Proceedings stayed until April 8, 2022."
+    },
+    "https://climatecasechart.com/case/sovereign-inupiat-for-a-living-arctic-v-bureau-of-land-management/": {
+        "description": "Description: Challenges to approval of a development plan for major oil and gas development in the National Petroleum Reserve-Alaska.",
+        "plaintiff": "Sovereign I\u00f1upiat for a Living Arctic",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/rosebud-sioux-tribe-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to right-of-way granted for the Keystone XL Pipeline.",
+        "plaintiff": "Rosebud Sioux Tribe",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": "Stay continued for 60 days."
+    },
+    "https://climatecasechart.com/case/hayes-v-bernhardt/": {
+        "description": "Description: Landowner's challenge to U.S. Bureau of Indian Affairs approval of oil and gas leases and drilling permits that affected plaintiff's property where mineral rights were controlled by Osage Nation.",
+        "plaintiff": "Hayes",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/alliance-for-the-wild-rockies-v-us-forest-service/": {
+        "description": "Description: Challenge to U.S. Forest Service restoration project in Washington.",
+        "plaintiff": "Alliance for the Wild Rockies",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/environmental-defense-fund-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to certificate of public convenience and necessity for construction and operation of an interstate gas pipeline project in Illinois and Missouri.",
+        "plaintiff": "Environmental Defense Fund",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to environmental review for proposed construction of 171.4 miles of electrical transmission lines and related facilities in Maine intended to carry electricity for fulfillment of clean energy contracts with State of Massachusetts.",
+        "plaintiff": "Sierra Club",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": "Motion for injunction pending appeal granted."
+    },
+    "https://climatecasechart.com/case/washington-v-bernhardt/": {
+        "description": "Description: Lawsuit challenging federal defendants\u2019 approval of an oil and gas leasing program on the Coastal Plain of the Arctic National Wildlife Refuge.",
+        "plaintiff": "Washington",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-slope-conservation-center-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s approval of a resource management plan that opened land in western Colorado to oil and gas leasing.",
+        "plaintiff": "Western Slope Conservation Center",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/iowa-citizens-for-community-improvement-v-council-on-environmental-quality/": {
+        "description": "Description: Lawsuit challenging the Council on Environmental Quality's amendments of the National Environmental Policy Act regulations for unlawfully limiting NEPA review related to concentrated animal feed operations.",
+        "plaintiff": "Iowa Citizens for Community Improvement",
+        "defendant": "Council on Environmental Quality",
+        "complaint_info": "",
+        "order_info": "Ordered that case remain stayed until July 5, 2022."
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission approvals of the Alaska LNG Project, which includes a liquefied natural gas terminal in Alaska, an 807-mile gas pipeline, and other related infrastructure.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/swomley-v-schroyer/": {
+        "description": "Description: Challenge to U.S. Forest Service\u2019s approval of a timber project authorizing logging on 1,631 acres in the White River National Forest in Colorado.",
+        "plaintiff": "Swomley",
+        "defendant": "Schroyer",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/optimus-steel-llc-v-us-army-corps-of-engineers/": {
+        "description": "Description: Lawsuit brought by steel mill owner to challenge the reauthorization and reissuance of Nationwide Permit 12 (NWP-12) as well as the approval of a natural gas pipeline under NWP-12.",
+        "plaintiff": "Optimus Steel, LLC",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/citizens-for-a-healthy-community-v-us-bureau-of-land-management-2/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management's approval of a revised Resource Management Plan for the Uncompahgre Field Office that expanded lands available to oil and gas leasing.",
+        "plaintiff": "Citizens for a Healthy Community",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/gwichin-steering-committee-v-bernhardt/": {
+        "description": "Description: Challenge to federal review and approval of an oil and gas leasing program for the Coastal Plain of the Arctic National Wildlife Refuge.",
+        "plaintiff": "Gwich\u2019in Steering Committee",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-audubon-society-v-bernhardt-2/": {
+        "description": "Description: Challenge to the environmental impact statement (EIS) for a revision to the Integrated Activity Plan for the National Petroleum Reserve\u2013Alaska that would open approximately 6.7 million acres of the Reserve to oil and gas development.",
+        "plaintiff": "National Audubon Society",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-us-department-of-transportation/": {
+        "description": "Description: Challenge to Pipeline and Hazardous Materials Safety Administration regulations authorizing transport of liquefied natural gas by rail.",
+        "plaintiff": "Sierra Club",
+        "defendant": "U.S. Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/lower-san-pedro-watershed-alliance-v-barta/": {
+        "description": "Description: Challenge to the Section 404 permit for a master-planned community in Arizona.",
+        "plaintiff": "Lower San Pedro Watershed Alliance",
+        "defendant": "Barta",
+        "complaint_info": "Amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-audubon-society-v-bernhardt/": {
+        "description": "Description: Challenge to Department of Interior rule that allegedly would expand sand mining projects in coastal barriers.",
+        "plaintiff": "National Audubon Society",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/backcountry-against-dumps-v-us-bureau-of-indian-affairs/": {
+        "description": "Description: Challenge to authorization of a lease for development, construction, operation, and maintenance of renewable energy generation facilities, including 60 wind turbines.",
+        "plaintiff": "Backcountry Against Dumps",
+        "defendant": "U.S. Bureau of Indian Affairs",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dine-citizens-against-ruining-our-environment-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to authorization and issuance of oil and gas leases on 30 parcels covering nearly 41,000 acres of land in the San Juan Basin in New Mexico.",
+        "plaintiff": "Din\u00e9 Citizens Against Ruining Our Environment",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/little-rock-downtown-neighborhood-association-inc-v-federal-highway-administration/": {
+        "description": "Description: Challenge to environmental review for an Arkansas highway project.",
+        "plaintiff": "Little Rock Downtown Neighborhood Association, Inc.",
+        "defendant": "Federal Highway Administration",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/bold-alliance-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to right-of-way and temporary use permit for Keystone XL to cross federal lands.",
+        "plaintiff": "Bold Alliance",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": "Case stayed until August 6, 2021."
+    },
+    "https://climatecasechart.com/case/cottonwood-environmental-law-center-v-marten/": {
+        "description": "Description: Lawsuit alleging violations of the National Environmental Policy Act for failure to prepare supplemental analyses of national forest plans and projects in light of new information about climate change.",
+        "plaintiff": "Cottonwood Environmental Law Center",
+        "defendant": "Marten",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/northern-alaska-environmental-center-v-bernhardt/": {
+        "description": "Description: Challenge to federal approvals for a 211-mile road through the southern Brooks Range and Gates of the Arctic National Park and Preserve to provide access to a mining district.",
+        "plaintiff": "Northern Alaska Environmental Center",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": "Plaintiffs' briefs for summary judgment denied without prejudice."
+    },
+    "https://climatecasechart.com/case/friends-of-the-earth-v-us-nuclear-regulatory-commission/": {
+        "description": "Description: Challenge to license renewals for the Turkey Point nuclear generating station in Florida.",
+        "plaintiff": "Friends of the Earth",
+        "defendant": "U.S. Nuclear Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/environmental-justice-health-alliance-v-council-on-environmental-quality/": {
+        "description": "Description: Challenge to amendments of the National Environmental Policy Act regulations.",
+        "plaintiff": "Environmental Justice Health Alliance",
+        "defendant": "Council on Environmental Quality",
+        "complaint_info": "",
+        "order_info": "Stay extended for 60 days, to June 18, 2021."
+    },
+    "https://climatecasechart.com/case/wild-virginia-v-council-on-environmental-quality/": {
+        "description": "Description: Challenge to amendments to the National Environmental Policy Act regulations.",
+        "plaintiff": "Wild Virginia",
+        "defendant": "Council on Environmental Quality",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/alaska-community-action-on-toxics-v-council-on-environmental-quality/": {
+        "description": "Description: Challenge to amendments to the National Environmental Policy Act regulations.",
+        "plaintiff": "Alaska Community Action on Toxics",
+        "defendant": "Council on Environmental Quality",
+        "complaint_info": "First amended complaint.",
+        "order_info": "Case stayed for 60 days."
+    },
+    "https://climatecasechart.com/case/animal-legal-defense-fund-v-azar/": {
+        "description": "Description: Challenge to the U.S. Food and Drug Administration's approval of a drug intended to reduce the amount of ammonia gas released from the waste produced by cows raised for beef.",
+        "plaintiff": "Animal Legal Defense Fund",
+        "defendant": "Azar",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/aqualliance-v-us-bureau-of-reclamation/": {
+        "description": "Description: Challenge to environmental review and approval of a 2019-2024 water transfer program for the sale of water by sellers upstream of the Sacramento-San Joaquin Delta to buyers south of the Delta.",
+        "plaintiff": "AquAlliance",
+        "defendant": "U.S. Bureau of Reclamation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/monroe-county-board-of-commissioners-v-us-forest-service/": {
+        "description": "Description: Challenge to the U.S. Forest Service\u2019s approval of a vegetation management and restoration project in the Hoosier National Forest.",
+        "plaintiff": "Monroe County Board of Commissioners",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-reclamation/": {
+        "description": "Description: Lawsuit charging that the conversion of Central Valley Project \u201crenewal contracts\u201d into \u201cpermanent repayment contracts\u201d was a major federal action that required compliance with NEPA. ",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Reclamation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/evans-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission orders authorizing the Jordan Cove liquefied natural gas export terminal and related infrastructure.",
+        "plaintiff": "Evans",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": "Motion for summary vacatur or stay pending judicial review denied."
+    },
+    "https://climatecasechart.com/case/conservation-congress-v-us-forest-service-2/": {
+        "description": "Description: Challenge to the environmental review for a fuel-reduction project in Shasta-Trinity National Forest.",
+        "plaintiff": "Conservation Congress",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/delaware-riverkeeper-network-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to permits issued by the U.S. Army Corps of Engineers for a docking facility in New Jersey to transport liquefied natural gas (LNG) to docked vessels. ",
+        "plaintiff": "Delaware Riverkeeper Network",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/food-water-watch-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission authorization of construction and operation of the 261 Upgrade Project, a set of projects in southern Massachusetts to increase transportation capacity on the existing Tennessee Gas Pipeline system.",
+        "plaintiff": "Food & Water Watch",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/vecinos-para-el-bienestar-de-la-comunidad-costera-v-federal-energy-regulatory-commission-3/": {
+        "description": "Description: Challenge to FERC authorizations of liquefied natural gas terminals in Texas.",
+        "plaintiff": "Vecinos para el Bienestar de la Comunidad Costera",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/missouri-v-us-department-of-the-interior-bureau-of-reclamation/": {
+        "description": "Description: Challenge to federal defendants' environmental review for the the Central North Dakota Water Supply Project.",
+        "plaintiff": "Missouri",
+        "defendant": "U.S. Department of the Interior\u2013Bureau of Reclamation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/california-natural-resources-agency-v-ross/": {
+        "description": "Description: Challenge to biological opinions for long-term operations of two major water diversion projects in California.",
+        "plaintiff": "California Natural Resources Agency",
+        "defendant": "Ross",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Motions for preliminary injunction granted in part and denied in part."
+    },
+    "https://climatecasechart.com/case/center-for-community-action-environmental-justice-v-federal-aviation-administration/": {
+        "description": "Description: Challenge to the Federal Aviation Administration's environmental review for an air cargo facility in southern California.",
+        "plaintiff": "Center for Community Action & Environmental Justice",
+        "defendant": "Federal Aviation Administration",
+        "complaint_info": "",
+        "order_info": "Motion to consolidate granted."
+    },
+    "https://climatecasechart.com/case/vecinos-para-el-bienestar-de-la-comunidad-costera-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission authorization of liquefied natural gas terminal on the Gulf Coast and a related pipeline system.",
+        "plaintiff": "Vecinos para el Bienestar de la Comunidad Costera",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/cook-inletkeeper-v-ross/": {
+        "description": "Description: Challenge to incidental take regulations authorizing take of 11 species of marine mammals in connection with oil and gas exploration and development activities.",
+        "plaintiff": "Cook Inletkeeper",
+        "defendant": "Ross",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-bernhardt-6/": {
+        "description": "Description: Lawsuit challenging approval of oil and gas leases in five western states.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": "Plaintiffs and federal defendants ordered to file a joint status report by November 3, 2021 on the status of settlement negotiations."
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-land-management-2/": {
+        "description": "Description: Lawsuit challenging the supplemental environmental impact statement prepared by the U.S. Bureau of Land Management for a resource management plan allowing hydraulic fracturing on federal lands in California.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-army-corps-of-engineers-2/": {
+        "description": "Description: Challenge to Section 404 permit for new petrochemical plant on the Mississippi River in Louisiana.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/columbia-riverkeeper-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S. Corps of Engineers issuance of a Section 404 permit for a maritime export terminal associated with a proposed methanol facility in Washington on the Columbia River.",
+        "plaintiff": "Columbia Riverkeeper",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/farm-sanctuary-v-us-department-of-agriculture/": {
+        "description": "Description: Lawsuit challenging the U.S. Department of Agriculture\u2019s final rule establishing an optional new inspection system for hog slaughter establishments, including the failure to consider the rule's environmental impacts.",
+        "plaintiff": "Farm Sanctuary",
+        "defendant": "U.S. Department of Agriculture",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/hosemann-v-us-army-corps-of-engineers/": {
+        "description": "Description: Lawsuit alleging that opening of spillway on Mississippi occurred without sufficient consideration of environmental impacts to the Mississippi Sound and Mississippi Public Trust.",
+        "plaintiff": "Watson",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Louisiana's motion to intervene granted."
+    },
+    "https://climatecasechart.com/case/harrison-county-v-mississippi-river-commission/": {
+        "description": "Description: Lawsuit asserting that U.S. Army Corps of Engineers and Mississippi River Commission failed to consider and mitigate impacts of opening of spillway on Mississippi River on coastal communities and resources.",
+        "plaintiff": "Harrison County",
+        "defendant": "Mississippi River Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/klamath-siskiyou-wildlands-center-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s approval of the first project prepared by the Lakeview District in the Klamath Falls Resource Area in Oregon under a 2016 resource management plan.",
+        "plaintiff": "Klamath-Siskiyou Wildlands Center",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/montana-environmental-information-center-v-bernhardt/": {
+        "description": "Description: Challenge to federal approval of expansion of a coal strip-mine in Montana.",
+        "plaintiff": "Montana Environmental Information Center",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-epa-8/": {
+        "description": "Description: Challenge to Safe Drinking Water Act exemption that would allegedly allow injection of oil and gas wastewater and other fluids in oil field in San Luis Obispo County in California.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "EPA",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sound-rivers-inc-v-us-fish-wildlife-service/": {
+        "description": "Description: Challenge to highway through Piedmont North Carolina, including for failure to analyze greenhouse gas emissions and climate change and new federal rule \"freezing\" CAFE standards.",
+        "plaintiff": "Sound Rivers, Inc.",
+        "defendant": "U.S. Fish & Wildlife Service",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Federal defendants' motion for a voluntary remand granted."
+    },
+    "https://climatecasechart.com/case/protect-our-communities-foundation-v-us-department-of-agriculture/": {
+        "description": "Description: Challenge to transmission line project.",
+        "plaintiff": "Protect Our Communities Foundation",
+        "defendant": "U.S. Department of Agriculture",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Plaintiffs' motion for injunction pending appeal denied."
+    },
+    "https://climatecasechart.com/case/oregon-natural-desert-association-v-hanley/": {
+        "description": "Description: Lawsuit challenging BLM\u2019s March 2019 decision to reverse portions of the 2015 conservation plan for the greater sage-grouse in Oregon by closing approximately 22,000 acres to livestock grazing. ",
+        "plaintiff": "Oregon Natural Desert Association",
+        "defendant": "Bushue",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/save-the-colorado-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to the U.S. Department of the Interior\u2019s December 2016 plan for managing the Glen Canyon Dam for failing to consider climate change impacts.",
+        "plaintiff": "Save the Colorado",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-bernhardt-8/": {
+        "description": "Description: Challenge to BLM\u2019s approval of a resource management plan in western Colorado that applied to 1,061,400 acres of BLM-administered surface land and 1,231,200 acres of BLM-managed federal mineral estate and made 935,600 acres available for oil and gas.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to BLM\u2019s approval of a resource management plan amendment for a planning area that included California\u2019s Bay Area and Central coast that would make 725,500 acres available for oil and gas leasing. ",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/living-rivers-v-hoffman/": {
+        "description": "Description: Challenge to 130 oil and gas lease sales on public land in Utah for failure to consider indirect and cumulative greenhouse gas emissions and climate change impacts.",
+        "plaintiff": "Living Rivers",
+        "defendant": "Hoffman",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/earth-island-institute-v-nash/": {
+        "description": "Description: Challenge to federal and state authorizations for a logging project and biomass power plant on public forestland burned during the Rim Fire in 2013.",
+        "plaintiff": "Earth Island Institute",
+        "defendant": "Nash",
+        "complaint_info": "",
+        "order_info": "Plaintiffs' motion for summary judgment denied and defendants' cross-motion for summary judgment granted."
+    },
+    "https://climatecasechart.com/case/california-v-chao/": {
+        "description": "Description: Lawsuit challenging the National Highway Traffic Safety Administration's final rule preempting state regulation of carbon dioxide emissions from vehicles.",
+        "plaintiff": "California",
+        "defendant": "Chao",
+        "complaint_info": "",
+        "order_info": "Court granted Coalition for Sustainable Automotive Regulation and Association of Global Automakers motion to intervene in support of defendants."
+    },
+    "https://climatecasechart.com/case/united-states-sugar-corp-v-semonite/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers releases from Lake Okeechobee in Florida.",
+        "plaintiff": "United States Sugar Corp.",
+        "defendant": "Semonite",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/natural-resources-defense-council-v-mccarthy/": {
+        "description": "Description: Challenge to opening of public lands in Utah to off-highway vehicle use.",
+        "plaintiff": "Natural Resources Defense Council",
+        "defendant": "McCarthy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dine-citizens-against-ruining-the-environment-v-bernhardt/": {
+        "description": "Description: Challenge to approvals of application for permits to drill in the Mancos Shale/Gallup formations.",
+        "plaintiff": "Din\u00e9 Citizens Against Ruining the Environment",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": "Motion by intervenor Navajo allottees for intervention of additional, similarly situated allottees granted."
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-bernhardt-5/": {
+        "description": "Description: Challenge to amendments to the Endangered Species Act regulations.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Haaland",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Motions to intervene granted."
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-bernhardt-2/": {
+        "description": "Description: Challenge to federal approval of mining plan for expansion of coal mine in western Colorado.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-suazo/": {
+        "description": "Description: Challenge to issuance of federal oil and gas leases.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Suazo",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-zinke-5/": {
+        "description": "Description: Challenge to federal coal lease in Utah.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Zinke",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-bernhardt/": {
+        "description": "Description: Challenge to renewal of grazing permits.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-bernhardt/": {
+        "description": "Description: Challenge to 210 oil and gas leases covering 68,232.94 acres of land in New Mexico.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": "Appeal abated pending district court's disposition of motion for clarification."
+    },
+    "https://climatecasechart.com/case/rocky-mountain-wild-v-bernhardt/": {
+        "description": "Description: Challenge to the U.S. Bureau of Land Management\u2019s decisions to issue 59 oil and gas leases covering 61,910.92 acres in northeast Utah.",
+        "plaintiff": "Rocky Mountain Wild",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to the management of Lake Okeechobee under the Lake Okeechobee Regulation Schedule (LORS).",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/bark-v-us-forest-service/": {
+        "description": "Description: Challenge to forest thinning project.",
+        "plaintiff": "Bark",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/northern-plains-resource-council-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S Army Corps of Engineers approval of Keystone XL pipeline project under the reissued Nationwide Permit 12 for pipeline and utility projects.",
+        "plaintiff": "Northern Plains Resource Council",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": "Amicus motion and motion for leave to join amicus motion granted."
+    },
+    "https://climatecasechart.com/case/living-rivers-v-bernhardt/": {
+        "description": "Description: Lawsuit challenging approval of rights-of-way for construction and operation of commercial-scale oil-shale mine and processing plant.",
+        "plaintiff": "Living Rivers",
+        "defendant": "Bernhardt",
+        "complaint_info": "Amended and supplemental complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/institute-for-fisheries-resources-v-burwell/": {
+        "description": "Description: Challenge to the approval of a genetically engineered salmon for human consumption without adequate disclosure and consideration of environmental and other risks, including cumulative effects related to climate change.\r\n",
+        "plaintiff": "Institute for Fisheries Resources",
+        "defendant": "Burwell",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Motion to intervene granted."
+    },
+    "https://climatecasechart.com/case/save-the-scenic-santa-ritas-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to Section 404 permit for copper mine site.",
+        "plaintiff": "Save the Scenic Santa Ritas",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Motion to stay cases pending further action by U.S. Army Corps of Engineers granted."
+    },
+    "https://climatecasechart.com/case/utah-physicians-for-a-healthy-environment-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to federal coal lease sale near Bryce Canyon National Park.",
+        "plaintiff": "Utah Physicians for a Healthy Environment",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/north-carolina-wildlife-federation-v-north-carolina-department-of-transportation/": {
+        "description": "Description: Challenge to toll bridge in the Currituck Outer Banks in North Carolina.",
+        "plaintiff": "North Carolina Wildlife Federation",
+        "defendant": "North Carolina Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/healthy-gulf-v-bernhardt/": {
+        "description": "Description: Challenge to federal defendants' decision to hold oil and gas lease sale in the Gulf of Mexico.",
+        "plaintiff": "Healthy Gulf",
+        "defendant": "Bernhardt",
+        "complaint_info": "Second supplemental complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-us-department-of-the-interior/": {
+        "description": "Description: Challenge to the U.S. Bureau of Reclamation's issuance of a contract allowing new water extractions from the Green River.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/citizens-for-a-healthy-community-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to federal actions authorizing oil and gas development in the Bull Mountain Unit in the Colorado River basin.",
+        "plaintiff": "Citizens for a Healthy Community",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "First amended complaint and petition for review of agency action filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/350-montana-v-bernhardt/": {
+        "description": "Description: Challenge to new environmental review conducted for re-approval of mining plan modification allowing expansion of an underground coal mine in Montana.",
+        "plaintiff": "350 Montana",
+        "defendant": "Haaland",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/vaughn-v-federal-aviation-administration/": {
+        "description": "Description: Challenge to environmental review for plan to redesign air-traffic control procedures and flight paths at southern California airports.",
+        "plaintiff": "Vaughn",
+        "defendant": "Federal Aviation Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/save-the-colorado-v-semonite/": {
+        "description": "Description: Challenge to dam project in Boulder County in Colorado.",
+        "plaintiff": "Save the Colorado",
+        "defendant": "Semonite",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dakota-rural-action-v-us-department-of-agriculture/": {
+        "description": "Description: Lawsuit challenging the U.S. Department of Agriculture Farm Service Agency (FSA) rule that categorically excluded FSA funding of medium-sized concentrated animal feeding operations from NEPA review.",
+        "plaintiff": "Dakota Rural Action",
+        "defendant": "U.S. Department of Agriculture",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/resource-renewal-institute-v-national-park-service/": {
+        "description": "Description: Action to require the preparation of a new or revised General Management Plan for the Point Reyes National Seashore that fully addressed the impacts of livestock ranching and other issues, including climate change.",
+        "plaintiff": "Resource Renewal Institute",
+        "defendant": "National Park Service",
+        "complaint_info": "Complaint filed.",
+        "order_info": "Motion to dismiss denied and motion for a more definite statement granted."
+    },
+    "https://climatecasechart.com/case/birckhead-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC approval of project involving construction and replacement of natural gas compression facilities in West Virginia, Kentucky, and Tennessee.",
+        "plaintiff": "Birckhead",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-zinke-3/": {
+        "description": "Description: Challenge to federal actions authorizing oil and gas development project in the Beaufort Sea offshore of Alaska.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/idaho-conservation-league-v-us-forest-service/": {
+        "description": "Description: Challenge to approval of a mining exploration project.",
+        "plaintiff": "Idaho Conservation League",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/klamath-siskiyou-wildlands-center-v-grantham/": {
+        "description": "Description: Lawsuit challenging U.S. Forest Service plan to reduce wildfire risk.",
+        "plaintiff": "Klamath-Siskiyou Wildlands Center",
+        "defendant": "Grantham",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/alliance-for-the-wild-rockies-v-pena/": {
+        "description": "Description: Challenge to the U.S. Forest Service's approval of a restoration, logging, and timber sale venture in the Colville National Forest.",
+        "plaintiff": "Alliance for the Wild Rockies",
+        "defendant": "Pena",
+        "complaint_info": "Amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/palm-beach-county-environmental-coalition-v-florida/": {
+        "description": "Description: Challenge to federal and state approvals for new natural gas power plant and related pipeline.",
+        "plaintiff": "Palm Beach County Environmental Coalition",
+        "defendant": "Florida",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-us-department-of-agriculture-rural-utilities-service/": {
+        "description": "Description: Challenge to approvals for expansion project at coal-fired power plant in western Kansas",
+        "plaintiff": "Sierra Club",
+        "defendant": "U.S. Department of Agriculture, Rural Utilities Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/appalachian-voices-v-bodman/": {
+        "description": "Description: Lawsuit alleging failure to comply with NEPA and the Endangered Species Act when allocating tax credits for experimental coal-based energy projects and asking for revocation of credits pending NEPA review, including review of carbon emissions.",
+        "plaintiff": "Appalachian Voices",
+        "defendant": "Bodman",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/montana-environmental-information-center-v-johanns/": {
+        "description": "Description: Action to bar the Rural Utilities Service from issuing loans for the construction of new coal-fired power plant pending compliance with the National Environmental Policy Act and National Historic Preservation Act.",
+        "plaintiff": "Montana Environmental Information Center",
+        "defendant": "Johanns",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/general-land-office-of-state-of-texas-v-us-fish-and-wildlife-service/": {
+        "description": "Description: Lawsuit challenging continued listing of golden-cheeked warbler as an endangered species.",
+        "plaintiff": "General Land Office of State of Texas",
+        "defendant": "U.S. Fish & Wildlife Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/rosebud-sioux-tribe-v-us-department-of-state/": {
+        "description": "Description: Challenge to presidential permit for Keystone XL pipeline.",
+        "plaintiff": "Rosebud Sioux Tribe",
+        "defendant": "U.S. Department of State",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Court directed parties to file statements of position for court's review regarding consolidation of this case with Indigenous Environmental Network v. Trump."
+    },
+    "https://climatecasechart.com/case/california-v-zinke/": {
+        "description": "Description: Challenge to BLM's repeal of key provisions of the 2016 Waste Prevention Rule for oil and gas development on public and tribal lands.",
+        "plaintiff": "California",
+        "defendant": "Bernhardt",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": "Western Energy Alliance and Independent Petroleum Association of America's unopposed motion to intervene granted."
+    },
+    "https://climatecasechart.com/case/rocky-mountain-wild-v-zinke/": {
+        "description": "Description: Challenge to 121 oil and gas leases in and around the Uinta Basin in northwestern Colorado and northeastern Utah.",
+        "plaintiff": "Rocky Mountain Wild",
+        "defendant": "Bernhardt",
+        "complaint_info": "",
+        "order_info": "Stipulation for voluntary dismissal granted."
+    },
+    "https://climatecasechart.com/case/delaware-riverkeeper-network-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC authorization of PennEast Pipeline project.",
+        "plaintiff": "Delaware Riverkeeper Network",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": "Order directing that cases be held in abeyance pending final disposition of In re PennEast Pipeline Company, LLC."
+    },
+    "https://climatecasechart.com/case/tongass-conservation-society-v-cole/": {
+        "description": "Description: Action to compel preparation of a site-specific supplemental environmental impact statement for a timber sale in the Tongass National Forest based on, among other things, new information about the role of climate change in yellow cedar decline.",
+        "plaintiff": "Tongass Conservation Society",
+        "defendant": "Cole",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/gulf-restoration-network-v-zinke/": {
+        "description": "Description: Action challenging federal government's decisions to hold offshore oil and gas lease sales.",
+        "plaintiff": "Gulf Restoration Network",
+        "defendant": "Haaland",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/otsego-2000-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC authorization of natural gas infrastructure project in New York.",
+        "plaintiff": "Otsego 2000, Inc.",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": "Dominion Energy Transmission, Inc.'s motion for leave to intervene granted."
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-zinke/": {
+        "description": "Description: Challenge to sale of oil and gas leases within and affecting sage-grouse habitat and to related Bureau of Land Management guidance.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "Zinke",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/conservation-congress-v-us-forest-service/": {
+        "description": "Description: Challenge to timber sale project in Mendocino National Forest that allegedly threatened Northern spotted owl.",
+        "plaintiff": "Conservation Congress",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to environmental reviews conducted for oil and gas lease sales on public lands in Montana.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wilderness-workshop-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to federal approval of 53 oil and gas lease parcels on public lands in the Upper Colorado River Basin in western Colorado. ",
+        "plaintiff": "Wilderness Workshop",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/appalachian-voices-v-federal-energy-regulatory-commission-2/": {
+        "description": "Description: Challenge to Federal Energy Regulatory Commission's authorization of the Atlantic Coast natural gas pipeline.",
+        "plaintiff": "Appalachian Voices",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/martin-county-florida-v-us-department-transportation/": {
+        "description": "Description: Challenge to federal allocation for passenger railroad in Florida.",
+        "plaintiff": "Indian River County, Florida",
+        "defendant": "U.S. Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/natural-resources-defense-council-inc-v-zinke/": {
+        "description": "Description: Challenge to oil and gas lease sales in National Petroleum Reserve\u2013Alaska.",
+        "plaintiff": "Natural Resources Defense Council, Inc.",
+        "defendant": "Zinke",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/northern-alaska-environmental-center-v-us-department-interior/": {
+        "description": "Description: Challenge to decision to lease lands in National Petroleum Reserve\u2013Alaska for oil and gas drilling.",
+        "plaintiff": "Northern Alaska Environmental Center",
+        "defendant": "U.S. Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/town-weymouth-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC's approval of the Atlantic Bridge Project, which includes natural gas pipeline and compression facilities in New York, Connecticut, and Massachusetts.",
+        "plaintiff": "Town of Weymouth",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/enervest-ltd-v-jewell/": {
+        "description": "Description: Lawsuit to compel the U.S. Bureau of Land Management to grant applications for permits to drill.",
+        "plaintiff": "EnerVest, Ltd.",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": "Order issued directing BLM either to issue the remaining permits or to provide non-arbitrary reasons supported by substantial evidence as to why it needs more time to process the permits."
+    },
+    "https://climatecasechart.com/case/appalachian-voices-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC order approving Mountain Valley Pipeline extending from West Virginia to Virginia.",
+        "plaintiff": "Appalachian Voices",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": "Motion to hold cases in abeyance or to defer filing of certified index to the record denied."
+    },
+    "https://climatecasechart.com/case/california-v-us-bureau-land-management-3/": {
+        "description": "Description: Challenge to BLM's repeal of 2015 regulations governing hydraulic fracturing on federal and tribal lands.",
+        "plaintiff": "California",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": "Administrative closure period extended until November 15, 2021."
+    },
+    "https://climatecasechart.com/case/norwalk-harbor-keeper-v-us-department-transportation/": {
+        "description": "Description: Challenge to environmental review for railroad bridge replacement project in Norwalk, Connecticut, alleging failure to conduct adequate resiliency analysis.",
+        "plaintiff": "Norwalk Harbor Keeper",
+        "defendant": "U.S. Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/atchafalaya-basinkeeper-v-us-army-corps-engineers/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers permits and authorizations for crude oil pipeline in Louisiana.",
+        "plaintiff": "Atchafalaya Basinkeeper",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/delaware-riverkeeper-network-v-us-army-corps-engineers/": {
+        "description": "Description: Challenge to Clean Water Act permits for natural gas interstate pipeline project.",
+        "plaintiff": "Delaware Riverkeeper Network",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/high-country-conservation-advocates-v-us-forest-service/": {
+        "description": "Description: Challenge to federal approvals of underground coal mine expansion.",
+        "plaintiff": "High Country Conservation Advocates",
+        "defendant": "U.S. Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/california-v-us-bureau-land-management-2/": {
+        "description": "Description: Challenge to a U.S. Bureau of Land Management rule postponing compliance dates for Waste Prevention Rule for one year.",
+        "plaintiff": "California",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": "Motion for voluntary dismissal granted."
+    },
+    "https://climatecasechart.com/case/colorado-river-indian-tribes-v-department-of-interior/": {
+        "description": "Description: Challenge to variance for solar power project.",
+        "plaintiff": "Colorado River Indian Tribes",
+        "defendant": "Department of Interior",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-kempthorne-2/": {
+        "description": "Description: Challenge to U.S. Fish and Wildlife Service rule that authorized \u201cincidental take\u201d of polar bears and Pacific walruses from oil and gas activities in and along the Beaufort Sea.\r\n",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Kempthorne",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/international-center-for-technology-assessment-v-council-on-environmental-quality/": {
+        "description": "Description: Rulemaking petition and subsequent litigation requesting that CEQ amend regulations to explicitly require consideration of climate change in NEPA reviews.",
+        "plaintiff": "International Center for Technology Assessment",
+        "defendant": "Council on Environmental Quality",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/shell-gulf-of-mexico-inc-v-center-for-biological-diversity/": {
+        "description": "Description: Action by oil company seeking declaration that government agencies properly issued it an \u201cincidental harassment authorization\u201d to drill in the Arctic.",
+        "plaintiff": "Shell Gulf of Mexico, Inc.",
+        "defendant": "Center for Biological Diversity",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/kane-county-utah-v-jewell/": {
+        "description": "Description: Challenge by rural Utah counties to moratorium on federal coal leasing.",
+        "plaintiff": "Kane County, Utah",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-organization-of-resource-councils-v-us-bureau-of-land-management/": {
+        "description": "Description: Challenge to resource management plans for areas in Montana and Wyoming in the Powder River Basin.",
+        "plaintiff": "Western Organization of Resource Councils",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/oregon-wild-v-connaughton/": {
+        "description": "Description: Challenge to environmental review for expansion of ski area in Oregon based on failure to conduct supplemental review based on new information, including new climate information.",
+        "plaintiff": "Oregon Wild",
+        "defendant": "Connaughton",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-federal-energy-regulatory-commission-3/": {
+        "description": "Description: Challenge to FERC approvals of liquefied natural gas facilities in Texas.\r\n",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-united-states-department-of-energy-2/": {
+        "description": "Description: Challenge to U.S. Department of Energy approval of application to export liquefied natural gas from facility in Corpus Christi, Texas.",
+        "plaintiff": "Sierra Club",
+        "defendant": "United States Department of Energy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-united-states-department-of-energy/": {
+        "description": "Description: Challenge to U.S. Department of Energy's approval of three applications to export liquefied natural gas from a Louisiana facility.",
+        "plaintiff": "Sierra Club",
+        "defendant": "United States Department of Energy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-united-states-forest-service/": {
+        "description": "Description: Challenge to coal mining on 2,000 acres of federal grassland in Wyoming.\r\n",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "United States Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/alaska-wilderness-league-v-jewell/": {
+        "description": "Description: Challenge to regulations authorizing take of Pacific walruses incidental to offshore oil and gas operations.\r\n",
+        "plaintiff": "Alaska Wilderness League",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-wildlife-federation-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to U.S. Army Corps of Engineers nationwide permit for bank stabilization projects.",
+        "plaintiff": "National Wildlife Federation",
+        "defendant": "U.S. Army Corps of Engineers",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/pacificans-for-a-scenic-coast-v-federal-highway-administration/": {
+        "description": "Description: Challenge to highway widening project in California.",
+        "plaintiff": "Pacificans for a Scenic Coast",
+        "defendant": "Federal Highway Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-jewell-2/": {
+        "description": "Description: Challenge to federal approvals of lease to expand and extend life of underground coal mine in Utah.\r\n",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Jewell",
+        "complaint_info": "Second amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-usfs/": {
+        "description": "Description: Challenge to federal authorization of grazing on certain federal lands.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "United States Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/amigos-bravos-v-united-states-bureau-of-land-management/": {
+        "description": "Description: Challenge to BLM\u2019s review of oil and gas leases, including for failure to discuss greenhouse gas impacts.\r\n",
+        "plaintiff": "Amigos Bravos",
+        "defendant": "United States Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/nrdc-v-us-state-dept/": {
+        "description": "Description: Challenge to planned pipeline that would carry oil from Canadian tar sands to U.S.\r\n",
+        "plaintiff": "Natural Resources Defense Council",
+        "defendant": "United States Department of State",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-us-dept-of-state/": {
+        "description": "Description: Challenge to cross-border pipeline that would bring oil from Canadian tar sands to the U.S.\r\n",
+        "plaintiff": "Sierra Club",
+        "defendant": "Clinton",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-us-department-of-interior/": {
+        "description": "Description: Challenge to proposed oil sands project.",
+        "plaintiff": "Sierra Club",
+        "defendant": "U.S. Department of Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/montana-environmental-information-center-v-blm/": {
+        "description": "Description: Action seeking to force BLM to consider climate impacts of oil and gas leasing decisions.",
+        "plaintiff": "Montana Environmental Information Center",
+        "defendant": "BLM",
+        "complaint_info": "Complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/kentucky-coal-association-inc-v-tennessee-valley-authority/": {
+        "description": "Description: Challenge to Tennessee Valley Authority decisions to retire coal-fired units and build natural gas plant.\r\n",
+        "plaintiff": "Kentucky Coal Association, Inc.",
+        "defendant": "Tennessee Valley Authority",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/hapner-v-tidwell/": {
+        "description": "Description: Challenge to proposed U.S. Forest Service plan to remove timber, including on grounds that environmental assessment did not look at proposed effects of climate change.",
+        "plaintiff": "Hapner",
+        "defendant": "Tidwell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/ranchers-cattlemen-action-legal-fund-v-united-states-department-of-agriculture/": {
+        "description": "Description: Challenge to USDA\u2019s Rural Utility Service\u2019s regulations relaxing restrictions on import of live cattle.\r\n",
+        "plaintiff": "Ranchers Cattlemen Action Legal Fund",
+        "defendant": "United States Department of Agriculture",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/senville-v-peters/": {
+        "description": "Description: Challenge to Federal Highway Administration\u2019s approval of segment of highway, including on grounds that environmental impact statement did not analyze project\u2019s effect on climate change",
+        "plaintiff": "Senville",
+        "defendant": "Peters",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-jewell/": {
+        "description": "Description: Action to block oil and gas leasing until Bureau of Land Management conducts programmatic review of its oil and gas leasing program that considers climate effects.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Haaland",
+        "complaint_info": "Amended and supplemented complaint filed.",
+        "order_info": "Colorado's motion to withdraw granted."
+    },
+    "https://climatecasechart.com/case/sierra-club-v-department-of-energy/": {
+        "description": "Description: Challenge to authorizations to export liquefied natural gas from the Cove Point LNG Terminal in Maryland.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Department of Energy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-federal-energy-regulatory-commission-2/": {
+        "description": "Description: Challenge to FERC approvals of liquefied natural gas facilities in Texas.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-federal-energy-regulatory-commission/": {
+        "description": "Description: Challenge to FERC approval of increased production at liquefied natural gas facility in Louisiana.",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-ferc/": {
+        "description": "Description: Challenge to FERC approvals of liquefied natural gas facilities in Louisiana.\r\n",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Energy Regulatory Commission",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-org-of-resource-councils-v-jewell/": {
+        "description": "Description: Challenge to failure to update environmental review of federal coal management program.\r\n",
+        "plaintiff": "Western Organization of Resource Councils",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/todays-iv-inc-v-federal-transit-administration-2/": {
+        "description": "Description: Challenge to Los Angeles subway project.\r\n",
+        "plaintiff": "Today\u2019s IV, Inc.",
+        "defendant": "Federal Transit Administration",
+        "complaint_info": "",
+        "order_info": "Order re plaintiff's combined motion for summary judgement issued."
+    },
+    "https://climatecasechart.com/case/dine-citizens-against-ruining-our-environment-v-bureau-of-indian-affairs/": {
+        "description": "Description: Challenge to expanded coal strip-mining operations at the Navajo Mine and extended coal combustion at the Four Corners Power Plant.",
+        "plaintiff": "Din\u00e9 Citizens Against Ruining Our Environment",
+        "defendant": "Bureau of Indian Affairs",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/kunaknan-v-united-states-army-corps-of-engineers/": {
+        "description": "Description: Challenge to fill permit for wetlands in National Petroleum Reserve in Alaska for drilling site.\r\n",
+        "plaintiff": "Kunaknana",
+        "defendant": "United States Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/friends-of-the-wildswan-v-jewell/": {
+        "description": "Description: Challenge to incidental take permit for grizzly bears and bull trout.\r\n",
+        "plaintiff": "Friends of the Wild Swan",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/reese-river-citizens-against-fracking-v-beureau-of-land-management/": {
+        "description": "Description: Challenge to issuance of oil and gas leases in Nevada.\r\n",
+        "plaintiff": "Reese River Citizens Against Fracking",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-bureau-of-land-management/": {
+        "description": "Description: Challenge to approvals related to development of coal lease in Colorado.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/protect-our-communities-foundation-v-jewell/": {
+        "description": "Description: Challenge to wind power project.\r\n",
+        "plaintiff": "Backcountry Against Dumps",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/native-vill-of-point-hope-v-jewell/": {
+        "description": "Description: Challenge to oil and gas lease sale in Chukchi Sea off the northwest coast of Alaska.\r\n",
+        "plaintiff": "Alaska Wilderness League",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": "Order in light of remand issued."
+    },
+    "https://climatecasechart.com/case/alliance-for-wild-rockies-v-brazell/": {
+        "description": "Description: Challenge to project intended to improve conditions in the Little Slate Creek watershed in Idaho.\r\n",
+        "plaintiff": "Alliance for Wild Rockies",
+        "defendant": "Brazell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/southern-utah-wilderness-alliance-v-burke/": {
+        "description": "Description: Challenge to Richfield Resource Management Plan and Travel Plan for 2.1 million acres of federal land in Utah.\r\n",
+        "plaintiff": "Southern Utah Wilderness Alliance",
+        "defendant": "Burke",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/san-juan-citizens-alliance-v-united-states-bureau-of-land-management/": {
+        "description": "Description: Challenge to authorization of oil and gas leases in Santa Fe National Forest.",
+        "plaintiff": "San Juan Citizens Alliance",
+        "defendant": "U.S. Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-osmre/": {
+        "description": "Description: Challenge to environmental review for coal mining operations.\r\n",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "U.S. Office of Surface Mining Reclamation and Enforcement",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/idaho-rivers-united-v-probert/": {
+        "description": "Description: Challenge to reviews for timber salvage project on federal lands in Idaho.",
+        "plaintiff": "Idaho Rivers United",
+        "defendant": "Probert",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-united-states-bureau-of-land-management/": {
+        "description": "Description: Challenge to approvals related to development of coal lease in Colorado.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "United States Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-wildlife-federation-v-national-marine-fisheries-service/": {
+        "description": "Description: Challenges to reviews of the Federal Columbia River Power System's impacts on salmon and steelhead.",
+        "plaintiff": "National Wildlife Federation",
+        "defendant": "National Marine Fisheries Service",
+        "complaint_info": "Complaint-in-intervention filed by Spokane Tribe of Indians.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/league-of-wilderness-defendersblue-mountains-biodiversity-project-v-connaughton/": {
+        "description": "Description: Challenge to vegetation management program in Oregon.\r\n",
+        "plaintiff": "League of Wilderness Defenders/Blue Mountains Biodiversity Project",
+        "defendant": "Connaughton",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/chesapeake-climate-action-network-v-ex-im-bank-of-the-us/": {
+        "description": "Description: Challenge to loan guarantee that allegedly would facilitate sale of $1 billion in coal for export.\r\n",
+        "plaintiff": "Chesapeake Climate Action Network",
+        "defendant": "Export-Import Bank of the United States",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/coal-for-the-advancement-of-regl-transp-v-fhwa/": {
+        "description": "Description: Challenge to construction and transportation management program to improve mobility across the Ohio River between Kentucky and southern Indiana.\r\n",
+        "plaintiff": "Coalition for the Advancement of Regional Transportation",
+        "defendant": "Federal Highway Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/high-country-conservation-advocates-v-us-forest-serv/": {
+        "description": "Description: Challenge to agency actions in connection with coal mine expansion.\r\n",
+        "plaintiff": "High Country Conservation Advocates",
+        "defendant": "United States Forest Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-iowa-chapter-v-lahood/": {
+        "description": "Description: Challenge to highway extension.\r\n",
+        "plaintiff": "Sierra Club, Iowa Chapter",
+        "defendant": "LaHood",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/san-diego-navy-broadway-complex-coal-v-dept-of-defense/": {
+        "description": "Description: Challenge to environmental assessment for upgrading naval facility on grounds that it did not address climate change.\r\n",
+        "plaintiff": "San Diego Navy Broadway Complex Coalition",
+        "defendant": "Department of Defense",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/coalition-for-a-sustainable-520-v-us-dept-of-transp/": {
+        "description": "Description: Challenge to FEIS concerning replacement bridge, including for failing to comply with GHG emissions law.\r\n\r\n",
+        "plaintiff": "Coalition for a Sustainable 520",
+        "defendant": "United States Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/black-mesa-water-coalition-v-salazar/": {
+        "description": "Description: Challenge to surface mining permit on grounds that approval violated NEPA.\r\n\r\n",
+        "plaintiff": "Black Mesa Water Coalition",
+        "defendant": "Salazar",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/dine-citizens-against-ruining-our-env-v-osmre/": {
+        "description": "Description: Challenge to mine expansion permit.\r\n",
+        "plaintiff": "Din\u00e9 Citizens Against Ruining Our Environment",
+        "defendant": "United States Office of Surface Mining Reclamation and Enforcement",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/northern-plains-resource-council-v-stb/": {
+        "description": "Description: Challenge to approval of application to build 130-mile rail line in Montana to haul coal.\r\n",
+        "plaintiff": "Northern Plains Resource Council",
+        "defendant": "Surface Transportation Board",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/ctr-for-biological-diversity-v-blm/": {
+        "description": "Description: Challenge to federal government leasing of public land for oil and gas development.\r\n",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/save-strawberry-canyon-v-us-dept-of-energy/": {
+        "description": "Description: Challenge to \u201csupercomputer\u201d project, including on grounds that it failed to look at direct and indirect greenhouse gas emissions.\r\n\r\n",
+        "plaintiff": "Save Strawberry Canyon",
+        "defendant": "U.S. Department of Energy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-bio-diversity-v-us-state/": {
+        "description": "Description: Challenge to oil sands pipeline on grounds that EIS is required under NEPA.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "U.S. Department of State",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/barnes-v-dept-of-transportation/": {
+        "description": "Description: Challenge to order relieving agency of obligation to prepare EIS for proposed airport.\r\n",
+        "plaintiff": "Barnes",
+        "defendant": "United States Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/earth-island-institute-v-gibson/": {
+        "description": "Description: Challenge to government project to remove trees from forest for failure to address climate change.\r\n",
+        "plaintiff": "Earth Island Institute",
+        "defendant": "Gibson",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/town-of-babylon-v-fed-housing-finance-agency/": {
+        "description": "Description: Challenge to FHFA\u2019s actions concerning PACE programs.\r\n",
+        "plaintiff": "Town of Babylon",
+        "defendant": "Federal Housing Finance Agency",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/hillsdale-envtl-loss-prevention-inc-v-us/": {
+        "description": "Description: Challenge to permit allowing the construction of rail yard.\r\n",
+        "plaintiff": "Hillsdale Environmental Loss Prevention, Inc.",
+        "defendant": "United States Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/league-of-wilderness-defenders-v-martin/": {
+        "description": "Description: Challenge to timber sale in national forest, including on grounds that EA did not take into account climate change.\r\n",
+        "plaintiff": "League of Wilderness Defenders",
+        "defendant": "Martin",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-salazar-2/": {
+        "description": "Description: Challenge to leasing plan in Powder River Basin.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Salazar",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-blm/": {
+        "description": "Description: Challenge to wind energy facility on grounds that EIS was required.\r\n",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/mont-envtl-info-center-v-blm/": {
+        "description": "Description: Action challenging federal approvals for oil and gas leasing on federal lands in Montana.",
+        "plaintiff": "Montana Environmental Information Center",
+        "defendant": "United States Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/s-utah-wilderness-alliance-v-interior-dept/": {
+        "description": "Description: Challenge to authorization by BLM to open 4.5 million acres of public lands in Utah to oil and gas development.\r\n",
+        "plaintiff": "Southern Utah Wilderness Alliance",
+        "defendant": "United States Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-salazar/": {
+        "description": "Description: Challenge to government decision to put coal leases in Wyoming\u2019s Powder River Basin up for sale.\r\n",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "Jewell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/shenandoah-valley-network-v-capka/": {
+        "description": "Description: Challenge to the Federal Highway Administration\u2019s issuance of record of decision regarding highway improvement study.\r\n",
+        "plaintiff": "Shenandoah Valley Network",
+        "defendant": "Capka",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/sierra-club-v-fhwa/": {
+        "description": "Description: Challenge to construction of highway in northwest Houston.\r\n",
+        "plaintiff": "Sierra Club",
+        "defendant": "Federal Highway Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/nc-alliance-for-trans-reform-v-us-dept-of-transp/": {
+        "description": "Description: Challenge to federally funded highway project, including on grounds that it did not evaluate greenhouse gas impacts.\r\n",
+        "plaintiff": "North Carolina Alliance for Transportation Reform, Inc.",
+        "defendant": "United States Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/nrdc-v-blm/": {
+        "description": "Description: Challenge to BLM\u2019s authorization of oil and gas development on federal land.\r\n",
+        "plaintiff": "Natural Resources Defense Council",
+        "defendant": "United States Bureau of Land Management",
+        "complaint_info": "",
+        "order_info": "Joint motion to dismiss granted."
+    },
+    "https://climatecasechart.com/case/nrdc-v-us-army-corps-of-engineers/": {
+        "description": "Description: Challenge to coal-to-liquid fuel plant.\r\n",
+        "plaintiff": "Natural Resources Defense Council",
+        "defendant": "United States Army Corps of Engineers",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/conservation-northwest-v-rey/": {
+        "description": "Description: Challenge to Forest Service\u2019s adoption of EIS concerning forest management plan.",
+        "plaintiff": "Conservation Northwest",
+        "defendant": "Rey",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/north-slope-borough-v-minerals-mgmt/": {
+        "description": "Description: Challenge to federal government\u2019s decision not to supplement EIS in connection with its plan to sell oil and gas leases in the Beaufort Sea.",
+        "plaintiff": "North Slope Borough",
+        "defendant": "Minerals Management Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/western-watersheds-project-v-salazar/": {
+        "description": "Description: Challenge to environmental impact statements for resource management plans in six states, including for failure to take into account climate change.",
+        "plaintiff": "Western Watersheds Project",
+        "defendant": "Salazar",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/wildearth-guardians-v-us-forest-serv/": {
+        "description": "Description: Challenge to Forest Service\u2019s EIS for failure to mitigate climate impacts of methane venting.",
+        "plaintiff": "WildEarth Guardians",
+        "defendant": "United States Forest Service",
+        "complaint_info": "First amended complaint filed.",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-biological-diversity-v-dept-of-interior/": {
+        "description": "Description: Challenge to leasing plan for oil and gas development, including on grounds that climate change impacts were not considered.",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "United States Department of the Interior",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/center-for-bio-diversity-v-nhtsa/": {
+        "description": "Description: Challenge to rule setting CAFE standards for cars and light trucks.\r\n",
+        "plaintiff": "Center for Biological Diversity",
+        "defendant": "National Highway Traffic Safety Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/audubon-v-department-of-transportation/": {
+        "description": "Description: Challenge to final EIS for transportation project.",
+        "plaintiff": "Audubon Naturalist Society of the Central Atlantic States, Inc.",
+        "defendant": "Department of Transportation",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/izaak-walton-league-of-america-v-kimbell/": {
+        "description": "Description: Challenge to decision by Forest Service to build snowmobile trail along a road adjacent to Boundary Waters wilderness area.",
+        "plaintiff": "Izaak Walton League of America",
+        "defendant": "Kimbell",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/mayo-found-v-surface-transportation-board/": {
+        "description": "Description: Challenge to STB\u2019s approval of 280 new miles of rail lines to reach coal mines and upgrade of 600 miles of existing lines.  ",
+        "plaintiff": "Mayo Found.",
+        "defendant": "Surface Transportation Board",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/nw-envtl-advocates-v-natl-marine-fisheries-serv/": {
+        "description": "Description: Challenge to adequacy of environmental impact statement prepared in connection with project to dredge and deepen Columbia River navigation channel.",
+        "plaintiff": "Northwest Environmental Advocates",
+        "defendant": "National Marine Fisheries Service",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/national-audubon-society-v-kempthorne/": {
+        "description": "Description: Challenge to U.S. Bureau of Land Management's environmental impact statement that served as basis for opening land to oil and gas development.",
+        "plaintiff": "National Audubon Society",
+        "defendant": "Kempthorne",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/friends-of-the-earth-v-watson/": {
+        "description": "Description: Challenge to government agencies' financial support for international fossil fuel projects; sought preparation of environmental assessment or environmental impact statement.",
+        "plaintiff": "Friends of the Earth, Inc.",
+        "defendant": "Spinelli",
+        "complaint_info": "",
+        "order_info": "Petition for interlocutory appeal denied."
+    },
+    "https://climatecasechart.com/case/mid-states-coalition-for-progress-v-surface-transportation-board/": {
+        "description": "Description: Challenge to STB\u2019s approval of 280 miles of rail lines to reach coal mines and upgrade of 600 miles of existing line.",
+        "plaintiff": "Mid States Coalition for Progress",
+        "defendant": "Surface Transportation Board",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/border-power-plant-working-group-v-dept-of-energy/": {
+        "description": "Description: Challenge to U.S. Department of Energy's FONSI regarding U.S.-Mexico power line.",
+        "plaintiff": "Border Power Plant Working Group",
+        "defendant": "Dept. of Energy",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/apac-inc-v-bonneville-power-adm/": {
+        "description": "Description: Challenge to environmental impact statement prepared by power company when it decided to become market competitor in energy market.",
+        "plaintiff": "Association of Public Agency Customers, Inc.",
+        "defendant": "Bonneville Power Administration",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/found-on-econ-trends-v-watkins/": {
+        "description": "Description: Challenged actions approved by agencies that did not take into account effects on climate change.",
+        "plaintiff": "Foundation on Economic Trends",
+        "defendant": "Watkins",
+        "complaint_info": "",
+        "order_info": ""
+    },
+    "https://climatecasechart.com/case/city-of-los-angeles-v-nhtsa/": {
+        "description": "Description: Challenge to decision not to prepare environmental impact statement for CAFE standards for model years 1987-1989.",
+        "plaintiff": "City of Los Angeles",
+        "defendant": "National Highway Traffic Safety Administration",
+        "complaint_info": "",
+        "order_info": ""
     }
 }
