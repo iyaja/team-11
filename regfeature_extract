@@ -1,0 +1,100 @@
+from datasets import load_dataset
+import pandas as pd
+import re
+from tqdm import tqdm
+
+# Load the dataset in streaming mode
+data = load_dataset("PolicyAI/NEPATEC1.0", split="train", streaming=True)
+
+# Read the CSV file to get the list of project titles
+csv_data = pd.read_csv('/Users/thomashochman/Downloads/regression data - NOI WITH CATEGORY.csv')
+project_titles = set(csv_data['Project Title'].tolist())
+
+# List of tribes, excluding "Creek"
+tribes = [
+    "Apache", "Arapaho", "Blackfeet", "Canadian and French American Indian", "Central American Indian", 
+    "Cherokee", "Cheyenne", "Chickasaw", "Chippewa", "Choctaw", "Colville", "Comanche", "Cree", 
+    "Crow", "Delaware", "Hopi", "Houma", "Iroquois", "Kiowa", "Lumbee", "Menominee", "Mexican American Indian", 
+    "Navajo", "Osage", "Ottawa", "Paiute", "Pima", "Potawatomi", "Pueblo", "Puget Sound Salish", "Seminole", 
+    "Shoshone", "Sioux", "South American Indian", "Spanish American Indian", "Tohono O'Odham", "Ute", 
+    "Yakama", "Yaqui", "Yuman", "Alaskan Athabascan", "Aleut", "Inupiat", "Tlingit-Haida", "Tsimshian", "Yup'ik"
+]
+
+# Compile regex patterns
+tribe_patterns = {tribe: re.compile(rf'\b{tribe}\b', re.IGNORECASE) for tribe in tribes}
+lawsuit_pattern = re.compile(r'\b(lawsuit|litigation|court case|legal action|court ruling|court decision)\b', re.IGNORECASE)
+
+def find_tribes_and_lawsuits(text):
+    found_tribes = set()
+    for tribe, pattern in tribe_patterns.items():
+        if pattern.search(text):
+            found_tribes.add(tribe)
+    lawsuit_present = bool(lawsuit_pattern.search(text))
+    return found_tribes, lawsuit_present
+
+def process_example(example):
+    project_title = example['Project Title']
+    state = example['State']
+    agencies = example['Agency']
+    documents = example['Documents']
+
+    if isinstance(agencies, str):
+        agencies = [agency.strip().title() for agency in agencies.split(',')]
+    else:
+        agencies = [agency.title() for agency in agencies]
+
+    found_tribes = set()
+    lawsuit_present = False
+
+    for doc in documents:
+        for page in doc['Pages']:
+            page_text = page['Page Text']
+            new_tribes, new_lawsuit = find_tribes_and_lawsuits(page_text)
+            found_tribes.update(new_tribes)
+            lawsuit_present |= new_lawsuit
+            if lawsuit_present and found_tribes:
+                break
+        if lawsuit_present and found_tribes:
+            break
+
+    return {
+        "Project Title": project_title,
+        "State": state,
+        "Agencies": ', '.join(agencies),
+        "Number of Agencies": len(agencies),
+        "Tribes": ', '.join(found_tribes),
+        "Number of Tribes": len(found_tribes),
+        "Mention of Litigation": lawsuit_present
+    }
+
+# Process the dataset
+processed_data = []
+progress_bar = tqdm(desc="Processing Projects", unit="projects")
+
+for example in data:
+    if example['Project Title'] in project_titles:
+        processed_data.append(process_example(example))
+        progress_bar.update(1)
+
+progress_bar.close()
+
+# Create a DataFrame from the processed data
+df = pd.DataFrame(processed_data)
+
+# Create dummy variables for each tribe
+for tribe in tribes:
+    df[tribe] = df['Tribes'].apply(lambda x: 1 if tribe in x else 0)
+
+# Create dummy variables for each unique agency
+unique_agencies = set(agency for agencies in df['Agencies'].str.split(', ') for agency in agencies)
+for agency in unique_agencies:
+    df[agency] = df['Agencies'].apply(lambda x: 1 if agency in x else 0)
+
+# Capitalize column titles
+df.columns = [col.replace('_', ' ').title() for col in df.columns]
+
+# Save the DataFrame to a CSV file
+df.to_csv('NEPATEC1.0_basic_analysis.csv', mode='w', header=True, index=False)
+
+print(f"Data processing completed. Processed {len(processed_data)} projects.")
+print("Results saved to NEPATEC1.0_basic_analysis.csv.")
