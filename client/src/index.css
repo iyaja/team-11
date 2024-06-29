@@ -18,6 +18,10 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background-color: rgba(126, 206, 251, 0.8);
+}
+
 a {
   font-weight: 500;
   color: #646cff;

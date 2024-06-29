@@ -9,36 +9,46 @@
 }
 
 .header {
-  font-family: Oswald, sans-serif;
-  font-size: 28px;
+  font-size: 30px;
+  font-weight: 900;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  margin-bottom: 8px;
+}
+
+.subheader {
+  font-size: 22px;
   font-weight: 600;
-  text-transform: uppercase;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.16);
-  max-width: 600px;
   margin-bottom: 40px;
 }
 
 .logo {
+  position: absolute;
+  top: 12px;
+  left: 12px;
   margin: 8px;
 }
 
 .dropzone, .processing {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap: 12px;
   width: 600px;
   height: 300px;
   border: 1px dashed rgba(0, 0, 0, 0.1);
   border-radius: 16px;
   background-color: rgba(255, 255, 255, 0.3);
+  font-size: 14px;
   font-weight: 500;
-  color: rgba(255, 255, 255, 0.8);
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.16);
-  transition: background-color 0.25s;
+  user-select: none;
+  color: rgba(0, 0, 0, 0.4);
+  transition: all 0.25s ease;
 }
 
 .dropzone:hover, .drag {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.6);
 }
 
 .processing {

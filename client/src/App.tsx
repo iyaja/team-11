@@ -1,5 +1,6 @@
 import React from 'react';
 import LogoIcon from './LogoIcon.tsx';
+import DocumentIcon from './assets/DocumentIcon.tsx';
 import ProcessingAnimation from './ProcessingAnimation.tsx';
 import { Result } from './types.ts';
 import Assessment from './Assessment.tsx';
@@ -47,11 +48,13 @@ function App() {
   return (
     <>
       <div className="logo"><LogoIcon color="#fff" /></div>
-      <span className="header">Upload your environmental impact statements here for quick assessment and insights</span>
+      <span className="header">Streamline Your Environmental Impact Assessment</span>
+      <span className="subheader">Upload statements for instant insights.</span>
       {isProcessing 
         ? <div className="processing"><ProcessingAnimation/></div>
         : <div className={`dropzone${isDragOver ? ' drag' : ''}`} onDragEnter={() => setDragOver(true)} onDragLeave={() => setDragOver(false)} onDragOver={onDragOver} onDrop={onDrop}>
-        Drop your document here
+          <DocumentIcon />
+          Drop your document here
         </div>
       }
     </>
