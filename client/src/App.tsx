@@ -54,7 +54,8 @@ function App() {
         ? <div className="processing"><ProcessingAnimation/></div>
         : <div className={`dropzone${isDragOver ? ' drag' : ''}`} onDragEnter={() => setDragOver(true)} onDragLeave={() => setDragOver(false)} onDragOver={onDragOver} onDrop={onDrop}>
           <DocumentIcon />
-          Drop your document here
+          <div className="drop-main">Upload a document</div>
+          <div className="drop-sub">Drag & drop a file here</div>
         </div>
       }
     </>
