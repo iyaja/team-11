@@ -267,7 +267,7 @@ Here is a list of relevant litigations related to development :
 {json.dumps(litigations, indent=4)}
 ```
 
-Cross-reference this list of cases with the EIS provided to find and highlight similarities. Cite sections of the text and make comments referencing specific previous litigation and their outcomes. To determine "similarity", look for proper nouns (names of plaintiffs, defendants, case numbers, locations, regions, suppliers, specific groups/companies etc.) in the EIS document that match content in the list of litigations above.
+Cross-reference this list of cases with the EIS provided to find and highlight potential legal risks with this project. Cite sections of the text and make comments referencing specific previous litigation and their outcomes. To determine "similarity", look for proper nouns (names of plaintiffs, defendants, case numbers, locations, regions, suppliers, specific groups/companies etc.) in the EIS document that match content in the list of litigations above.
 
 Respond with the following format:
 
@@ -276,7 +276,7 @@ Respond with the following format:
     "comments" : [
         {{
             "quote": "Exact text quote from the document",
-            "comment": "A citation to the relevant litigation and an explanation for how it is similar/related to content in the quoted text.",
+            "comment": "A citation to the relevant litigation (a docket number + markdown-formatted link) and an explanation for how it is similar/related to content in the quoted text.",
         }},
         ...
     ]
