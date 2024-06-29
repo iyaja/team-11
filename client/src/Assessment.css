@@ -115,8 +115,13 @@
     width: 100%;
 }
 
-.summary h3, .summary h4, .summary p, .summary ol, .summary ul {
+.summary h1, h2, h3, .summary h4, .summary p, .summary ol, .summary ul {
     margin: 4px 0;
+}
+
+.summary h1 {
+    font-size: 24px;
+    font-weight: 700;
 }
 
 .features {
