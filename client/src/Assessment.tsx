@@ -48,6 +48,19 @@ export default function Assessment({ result }: { result: Result }) {
                 </div>
                 <div className="summary scroll-overlay">
                     {currentTab === 'summary' && <Markdown remarkPlugins={[remarkGfm]}>{result.summary}</Markdown>}
+                    {currentTab === 'features' && (
+                        <div className="features">
+                            {result.features.map(({ name, score }, index) => (
+                                <>
+                                    <div key={`feature-${index}`} className="feature">
+                                        <div className="title">{name}</div>
+                                        <div className={`score ${score < 0 ? 'neg' : 'pos'}`}><div style={{ width: `${Math.abs(score) * 100}%` }} className="bar"></div></div>
+                                    </div>
+                                    {index < result.features.length - 1 && <hr/>}
+                                </>
+                            ))}
+                        </div>
+                    )}
                     {currentTab === 'comments' && (
                         <div className="comments">
                             <div className="navigation">
