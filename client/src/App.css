@@ -3,39 +3,35 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.header {
+  font-family: Oswald, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  text-transform: uppercase;
+  max-width: 600px;
+  padding: 20px;
 }
 
 .dropzone {
-  width: 500px;
-  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 300px;
   border: 1px dashed #888;
-  border-radius: 8px;
+  border-radius: 16px;
+  background-color: rgba(255, 255, 255, 0.3);
+  font-weight: 500;
+  color: #888;
+  transition: background-color 0.25s;
+}
+
+.dropzone:hover, .drag {
+  background-color: rgba(255, 255, 255, 0.5);
 }
