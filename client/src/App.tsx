@@ -3,7 +3,7 @@ import LogoIcon from './LogoIcon.tsx';
 import ProcessingAnimation from './ProcessingAnimation.tsx';
 import { Result } from './types.ts';
 import Assessment from './Assessment.tsx';
-import sampleJson from '../../server/sample_comments.json';
+import sampleJson from '../../server/sample_comments_2.json';
 import './App.css';
 
 function App() {

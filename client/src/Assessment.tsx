@@ -1,9 +1,10 @@
 import React from "react";
 import Markdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import { Result } from './types.ts';
-import './Assessment.css';
 import ChevronUp from "./assets/ChevronUp.tsx";
 import ChevronDown from "./assets/ChevronDown.tsx";
+import './Assessment.css';
 
 export default function Assessment({ result }: { result: Result }) {
     const resultRef = React.useRef<HTMLDivElement>(null);
@@ -27,7 +28,7 @@ export default function Assessment({ result }: { result: Result }) {
 
     return (
         <div className="container">
-            <div ref={resultRef} className="result"><Markdown>{result.markdown}</Markdown></div>
+            <div ref={resultRef} className="result"><Markdown remarkPlugins={[remarkGfm]}>{result.markdown}</Markdown></div>
             <div className="comments">
                 <div className="navigation">
                     {commentIndex >= 0 && <span>{commentIndex + 1}/{result.comments.length}</span>}
@@ -39,7 +40,7 @@ export default function Assessment({ result }: { result: Result }) {
                 {commentIndex >= 0 ? (
                     <div className="comment">{result.comments[commentIndex].comment}</div>
                 ) : (
-                    <div className="comment">Click on the buttons above to view comments</div>
+                    <div className="instruction">Click on the buttons above to view comments</div>
                 )}
             </div>
         </div>

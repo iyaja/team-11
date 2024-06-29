@@ -8,11 +8,14 @@
   background-color: #FBAB7E;
   background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
 
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+:root * {
+  box-sizing: border-box;
 }
 
 a {
