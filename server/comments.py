@@ -254,3 +254,46 @@ If no relevant text is found, return an empty list.""".strip()
     resp_obj = json.loads(resp.choices[0].message.content)
 
     return resp_obj
+
+
+def get_litigation_comments(doc, litigations):
+
+    LITIGATION_PROMPT = f"""
+You are an expert legal analyst tasked with analyzing an Environmental Impact Statement (EIS) for a proposed development project for potential risks and regulatory hurdles.
+
+Here is a list of relevant litigations related to development :
+
+```json
+{json.dumps(litigations, indent=4)}
+```
+
+Cross-reference this list of cases with the EIS provided to find and highlight similarities. Cite sections of the text and make comments referencing specific previous litigation and their outcomes. To determine "similarity", look for proper nouns (names of plaintiffs, defendants, case numbers, locations, regions, suppliers, specific groups/companies etc.) in the EIS document that match content in the list of litigations above.
+
+Respond with the following format:
+
+```json
+{{
+    "comments" : [
+        {{
+            "quote": "Exact text quote from the document",
+            "comment": "A citation to the relevant litigation and an explanation for how it is similar/related to content in the quoted text.",
+        }},
+        ...
+    ]
+}}
+```
+
+If no relevant text is found, return an empty list.""".strip()
+
+    resp = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {"role": "system", "content": LITIGATION_PROMPT},
+            {"role": "user", "content": doc},
+        ],
+        response_format={"type": "json_object"},
+    )
+
+    resp_obj = json.loads(resp.choices[0].message.content)
+
+    return resp_obj
