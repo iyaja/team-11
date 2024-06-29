@@ -4,7 +4,7 @@ import DocumentIcon from './assets/DocumentIcon.tsx';
 import ProcessingAnimation from './ProcessingAnimation.tsx';
 import { Result } from './types.ts';
 import Assessment from './Assessment.tsx';
-import sampleJson from '../../server/sample_comments_3.json';
+import sampleJson from '../../server/final_2.json';
 import './App.css';
 
 function App() {
