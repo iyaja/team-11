@@ -22,6 +22,26 @@
   background-color: rgba(126, 206, 251, 0.8);
 }
 
+.scroll-overlay::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scroll-overlay::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-clip: padding-box;
+  border: 2px solid transparent;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.scroll-overlay:not(:hover)::-webkit-scrollbar-thumb {
+  display: none;
+}
+
+.scroll-overlay::-webkit-scrollbar-thumb:hover {
+  border-width: 1px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 a {
   font-weight: 500;
   color: #646cff;

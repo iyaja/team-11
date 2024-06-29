@@ -1,6 +1,11 @@
 export type Result = {
     markdown: string;
     comments: Comment[];
+    features: Array<{
+        name: string;
+        score: number;
+    }>;
+    summary: string;
 };
 
 export type Comment = {
