@@ -57,27 +57,8 @@
             }
         }
     ],
-    "features": [
-        {
-            "name": "Number of unique agencies mentioned",
-            "score": -0.80
-        },
-        {
-            "name": "Mentions of endangered species",
-            "score": -0.67
-        },
-        {
-            "name": "Favorable EPA comments",
-            "score": 0.22
-        },
-        {
-            "name": "Includes mitigation plan",
-            "score": 0.65
-        },
-        {
-            "name": "Location: California",
-            "score": -0.36
-        }
-    ],
+    "features": [{"name": "Legal Complications - False", "score": "0.0"},
+    {"name": "1 Agencies", "score": 0.9886665775104098},
+    {"name": "2", "score": 0.011333422489590251}],
     "summary": "### Identification and Analysis of Endangered Species in the EIS\n\n---\n\n#### Identified Species:\nSeveral mentions of endangered species are present in the Environmental Impact Statement (EIS) for the Libra Solar Project. The following endangered species are identified and analyzed for potential impacts:\n\n1. **Yellow-billed Cuckoo (Coccyzus americanus)**\n   \n---\n\n### Detailed Analysis from the EIS:\n\n#### Yellow-billed Cuckoo (Coccyzus americanus):\n\n**1. **EIS Section: Executive Summary, ES.5 Comparison of Effects**\n\n**Specific Text:**\n\"Several commenters raised questions about potential impacts to bi-state sage-grouse, a special status species under consideration for listing as endangered or threatened under the Endangered Species Act (ESA)... The USFWS raised concerns regarding yellow-billed cuckoo, a federally listed endangered species. This species has not been documented in or near the Project area during recent surveys, nor in the past. The species could, theoretically, migrate along the Walker River corridor. A single crossing of the gen-tie occurs over the Walker River. As such, this species is addressed in the Draft EIS to identify the means of avoidance.\"\n\n**Analysis:**\n\n- **Overview:**\n  The yellow-billed cuckoo is a species federally listed as endangered and recognized as potentially being present in the project area along the Walker River corridor, particularly where the gen-tie line crosses. \n\n- **Impact Summary:**\n  While there is no documented presence of the yellow-billed cuckoo within the project area from past or recent surveys, the potential for the species to migrate along the Walker River corridor necessitates consideration. Despite the theoretical presence, measures for avoidance are identified and discussed within the EIS.\n\n- **Proposed Measures of Avoidance and Mitigation:**\n  The EIS suggests that even though the presence of the yellow-billed cuckoo has not been documented, appropriate measures should be taken to avoid impacting the species during the construction and operation of the Project. The means of avoidance likely include conducting pre-construction surveys, maintaining and monitoring the habitat along the Walker River, and adhering to USFWS guidelines during the construction of gen-tie crossings over the river.\n\n---\n\n### Potential Impact Summary and Recommendations:\n\n**Yellow-billed Cuckoo (Coccyzus americanus):**\n\n- **Summary of Potential Impacts:**\n  Given the theoretical nature of the presence of the yellow-billed cuckoo and the lack of documented sightings, the impact on this species is anticipated to be minimal with proper avoidance measures in place. The primary focus remains on ensuring that the migration corridor along Walker River is not disrupted, albeit the species is not a frequently observed inhabitant.\n\n- **Recommendations:**\n  - **Pre-construction Surveys**: Conduct thorough surveys to ascertain the possible presence during peak migration periods.\n  - **Timing of Construction**: Schedule the gen-tie construction during periods less likely to coincide with migration timings.\n  - **Habitat Preservation**: Ensure minimal disruption of vegetation and hydrology along Walker River that could potentially provide habitat during migration.\n  - **Continued Monitoring**: Engage in regular monitoring post-construction to ensure no adverse effects if the species is later observed to use the habitat corridor.\n\n---\n\n**Conclusion:**\nThe Libra Solar Project EIS addresses concerns related to the potential impact on the yellow-billed cuckoo by ensuring measures are in place despite the species not being documented in the project area. Continued monitoring and adherence to avoidance measures are crucial in mitigating any unforeseen impacts, aligning construction practices with environmental regulatory standards."
 }
