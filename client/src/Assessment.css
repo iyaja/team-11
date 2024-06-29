@@ -15,7 +15,8 @@
     font-size: 12px;
     width: 65%;
     max-width: 900px;
-    border-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
 
 .navigation {
@@ -64,4 +65,8 @@
     text-align: center;
     justify-content: center;
     margin-top: 40px;
+}
+
+#highlighted {
+    background-color: rgba(126, 206, 251, 0.7);
 }

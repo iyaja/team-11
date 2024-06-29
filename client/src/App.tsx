@@ -23,6 +23,19 @@ function App() {
     setTimeout(() => {
       setIsProcessing(false);
       const sampleResult = sampleJson as Result;
+      // Sort comments in descending order so that we can replace the quotes in reverse order to avoid changing the text indices
+      const comments = sampleResult.comments.slice().sort((a, b) => b.quote.start - a.quote.start);
+      for (let i = 0; i < comments.length; i++) {
+        const comment = comments[i];
+        const start = comment.quote.start;
+        const end = comment.quote.end;
+        const markdown = sampleResult.markdown;
+        const quote = markdown.slice(start, end);
+        const quoteWithAttributes = `<span data-start="${start}" data-end="${end}">${quote}</span>`;
+        sampleResult.markdown = markdown.replace(quote, quoteWithAttributes);
+      }
+      // Sort comments in ascending order of start index when displaying
+      sampleResult.comments.sort((a, b) => a.quote.start - b.quote.start);
       setResult(sampleResult);
     }, 2000);
   }
