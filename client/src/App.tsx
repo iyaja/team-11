@@ -1,8 +1,9 @@
 import React from 'react';
-import LogoIcon from './LogoIcon';
-import ProcessingAnimation from './ProcessingAnimation';
-import { Result } from './types';
-import Assessment from './Assessment';
+import LogoIcon from './LogoIcon.tsx';
+import ProcessingAnimation from './ProcessingAnimation.tsx';
+import { Result } from './types.ts';
+import Assessment from './Assessment.tsx';
+import sampleJson from '../../server/sample_comments.json';
 import './App.css';
 
 function App() {
@@ -21,22 +22,8 @@ function App() {
     setDragOver(false);
     setTimeout(() => {
       setIsProcessing(false);
-      setResult({
-        markdown: '## Summary\n\nThis is a summary of the document.\n\n## Comments\n\nThese are the comments.',
-        comments: [
-          {
-            quote: {
-              start: 0,
-              end: 10,
-              text: 'This is a quote.',
-            },
-            comment: 'This is a comment.',
-            metadata: {
-              risk_factor: 'high',
-            },
-          },
-        ],
-      });
+      const sampleResult = sampleJson as Result;
+      setResult(sampleResult);
     }, 2000);
   }
 
