@@ -1,4 +1,3 @@
-import React from 'react';
 import './ProcessingAnimation.css';
 
 export default function ProcessingAnimation() {
