@@ -1,4 +1,4 @@
-# Arya: Gradescope for NEPA Reivews
+# Arya: Gradescope for NEPA Reviews
 
 ## Usage
 
